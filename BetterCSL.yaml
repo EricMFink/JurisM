@@ -13,144 +13,6 @@ references:
   URL: >-
     https://1.next.westlaw.com/Document/I706dee9e602411e5b03de1adef3203f0/View/FullText.html?navigationPath=%2FRelatedInfo%2Fv1%2FkcCitingReferences%2Fnav%3FdocGuid%3DI94cda88592fe11e1b11ea85d0b248d27%26midlineIndex%3D2%26warningFlag%3DN%26planIcons%3DNO%26skipOutOfPlan%3DNO%26sort%3Ddepthdesc%26category%3DkcCitingReferences%26origRank%3D7%26origDocSource%3D8df780d429024ae48b43a06f503c2226&listSource=RelatedInfo&list=CitingReferences&rank=2&docFamilyGuid=Ie16ebc71602711e58cc1d617b39e42da&overruleRisk=true&originationContext=citingreferences&transitionType=CitingReferencesItem&contextData=%28sc.Search%29
 
-- id: '1991'
-  citation-key: '1991'
-  container-title: ND Cent. Code
-  issued:
-    - year: 1991
-  jurisdiction: us:nd
-  section: 12.1-21.1-01
-  title-short: North Dakota AgGag
-  type: legislation
-
-- id: 1991a
-  citation-key: 1991a
-  container-title: Mont. Code
-  issued:
-    - year: 1991
-  jurisdiction: us:mt
-  section: 81-30-101
-  title-short: Montana AgGag
-  type: legislation
-
-- id: '1992'
-  citation-key: '1992'
-  container-title: SC Code Ann.
-  issued:
-    - year: 1992
-  jurisdiction: us:sc
-  section: 47-21
-  title-short: SC AgGag
-  type: legislation
-
-- id: '2002'
-  chapter-number: '2002'
-  citation-key: '2002'
-  container-title: Ala. Code
-  issued:
-    - year: 2002
-  jurisdiction: us:al
-  section: 13A-11-153
-  title-short: Alabama AgGag
-  type: legislation
-
-- id: '2004'
-  chapter-number: '2004'
-  citation-key: '2004'
-  container-title: Iowa Code
-  issued:
-    - year: 2004
-  jurisdiction: us:ia
-  section: 717A.1
-  title-short: Iowa AgGag
-  type: legislation
-
-- id: 2004a
-  citation-key: 2004a
-  container-title: "Ohio Rev.\_Code"
-  issued:
-    - year: 2004
-  jurisdiction: us:oh
-  section: '901.511'
-  title-short: Ohio Agricultural Terrorism
-  type: legislation
-
-- id: '2006'
-  citation-key: '2006'
-  container-title: Kan. Stat.
-  issued:
-    - year: 2006
-  jurisdiction: us:ks
-  section: 47-1827
-  title-short: Kansas AgGag
-  type: legislation
-
-- id: '2012'
-  chapter-number: '2012'
-  citation-key: '2012'
-  container-title: Mo. Rev. Stat.
-  issued:
-    - year: 2012
-  jurisdiction: us:mo
-  section: 578.013.1
-  title-short: Missouri AgGag
-  type: legislation
-
-- id: 2012a
-  chapter-number: '2012'
-  citation-key: 2012a
-  container-title: Utah Crim. Code
-  issued:
-    - year: 2012
-  jurisdiction: us:ut
-  section: 76-6-112
-  title-short: Utah AgGag
-  type: legislation
-
-- id: '2014'
-  chapter-number: '2014'
-  citation-key: '2014'
-  container-title: Idaho Code
-  issued:
-    - year: 2014
-  jurisdiction: us:id
-  section: 18-7042
-  title-short: Idaho AgGag
-  type: legislation
-
-- id: '2015'
-  chapter-number: '2015'
-  citation-key: '2015'
-  container-title: Wyo. Stat.
-  issued:
-    - year: 2015
-  jurisdiction: us:wy
-  references: "Laws 2015, ch.\_146, § 1, eff. March 5, 2015; Laws 2016, ch.\_117, §§ 1, 2, eff. March 15, 2016."
-  section: 6-3-414
-  title-short: Wyoming Criminal Trespass
-  type: legislation
-
-- id: 2015a
-  chapter-number: '2015'
-  citation-key: 2015a
-  container-title: Wyo. Stat.
-  issued:
-    - year: 2015
-  jurisdiction: us:wy
-  section: 40-27-101
-  title-short: Wyoming Civil Trespass
-  type: legislation
-
-- id: '2017'
-  citation-key: '2017'
-  container-title: Ark. Code
-  issued:
-    - year: 2017
-  jurisdiction: us:ar
-  section: 16-118-113
-  title-short: Arkansas DataTrespass
-  type: legislation
-
 - id: 2020AttorneyFees
   abstract: >-
     Attorney's hourly fees range between $100 and $400. Fees for criminal cases
@@ -804,6 +666,18 @@ references:
   title-short: Labor Regulation, Corporate Governance, and Legal Origin
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.16
+
+- id: AlabamaAgGag2002
+  chapter-number: '2002'
+  citation-key: AlabamaAgGag2002
+  container-title: Ala. Code
+  issued:
+    - year: 2002
+  jurisdiction: us:al
+  section: 13A-11-153
+  title: Alabama AgGag
+  title-short: Alabama AgGag
+  type: legislation
 
 - id: AlbertsonInc2007
   citation-key: AlbertsonInc2007
@@ -1500,24 +1374,6 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/ylr126&i=12
   volume: '126'
 
-- id: AnimalLeagueDefense2020
-  accessed:
-    - year: 2020
-      month: 6
-      day: 17
-  citation-key: AnimalLeagueDefense2020
-  issued:
-    - year: 2020
-      month: 2
-      day: 14
-  jurisdiction: us:c8:ar.ed
-  number: 4:19cv00442 JM
-  source: Google Scholar
-  title: Animal League Defense Fund v. Vaught
-  type: legal_case
-  URL: >-
-    https://scholar.google.com/scholar_case?case=12856892882286946153&q=Animal+Legal+Defense+v+Peco+Foods+&hl=en&as_sdt=6,34
-
 - id: AnimalLegalDefense2015
   citation-key: AnimalLegalDefense2015
   container-title: F. Supp. 3d
@@ -1613,6 +1469,24 @@ references:
   URL: >-
     https://scholar.google.com/scholar_case?case=9033052538120167401&q=Animal+Legal+Defense+Fund+v+Kelly&hl=en&as_sdt=6,34
   volume: '2020'
+
+- id: AnimalLegalDefense2020a
+  accessed:
+    - year: 2020
+      month: 6
+      day: 17
+  citation-key: AnimalLegalDefense2020a
+  issued:
+    - year: 2020
+      month: 2
+      day: 14
+  jurisdiction: us:c8:ar.ed
+  number: 4:19cv00442 JM
+  source: Google Scholar
+  title: Animal Legal Defense Fund v. Vaught
+  type: legal_case
+  URL: >-
+    https://scholar.google.com/scholar_case?case=12856892882286946153&q=Animal+Legal+Defense+v+Peco+Foods+&hl=en&as_sdt=6,34
 
 - id: appelbaumEconomistsHourFalse2019
   abstract: >-
@@ -1891,6 +1765,17 @@ references:
     Information Market
   type: article-journal
   volume: '10'
+
+- id: ArkansasPPA2017
+  citation-key: ArkansasPPA2017
+  container-title: Ark. Code
+  issued:
+    - year: 2017
+  jurisdiction: us:ar
+  section: 16-118-113
+  title: Arkansas PPA
+  title-short: Arkansas DataTrespass
+  type: legislation
 
 - id: arlinghausConservationFisheryBenefits2010
   author:
@@ -14089,6 +13974,18 @@ references:
   URL: https://www.jstor.org/stable/23316141
   volume: '644'
 
+- id: IdahoAgGag2014
+  chapter-number: '2014'
+  citation-key: IdahoAgGag2014
+  container-title: Idaho Code
+  issued:
+    - year: 2014
+  jurisdiction: us:id
+  section: 18-7042
+  title: Idaho AgGag
+  title-short: Idaho AgGag
+  type: legislation
+
 - id: ingallsWagnerActTrial1997
   accessed:
     - year: 2019
@@ -14141,6 +14038,18 @@ references:
   title: An Introduction to International Fisheries Law Research - GlobaLex
   type: webpage
   URL: https://www.nyulawglobal.org/globalex/International_Fisheries_Law.html
+
+- id: IowaAgGag2004
+  chapter-number: '2004'
+  citation-key: IowaAgGag2004
+  container-title: Iowa Code
+  issued:
+    - year: 2004
+  jurisdiction: us:ia
+  section: 717A.1
+  title: IowaAgGag
+  title-short: Iowa AgGag
+  type: legislation
 
 - id: isaacHowCivilRights2002
   abstract: >-
@@ -15312,6 +15221,17 @@ references:
   title: 'A Machine That Would Go of Itself: The Constitution in American Culture'
   type: book
 
+- id: KansasAgGag2006
+  citation-key: KansasAgGag2006
+  container-title: Kan. Stat.
+  issued:
+    - year: 2006
+  jurisdiction: us:ks
+  section: 47-1827
+  title: KansasAgGag
+  title-short: Kansas AgGag
+  type: legislation
+
 - id: karlipTragedyGenerationRise2013
   author:
     - family: Karlip
@@ -15753,6 +15673,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 1990
+  jurisdiction: us
   page: '1171'
   title: Kinder-Care Learning Centers, Inc.
   type: legal_case
@@ -20908,6 +20829,18 @@ references:
   title: The Power Elite
   type: book
 
+- id: MissouriAgGag2012
+  chapter-number: '2012'
+  citation-key: MissouriAgGag2012
+  container-title: Mo. Rev. Stat.
+  issued:
+    - year: 2012
+  jurisdiction: us:mo
+  section: 578.013.1
+  title: Missouri AgGag
+  title-short: Missouri AgGag
+  type: legislation
+
 - id: mohanStateArtWorkflow1996
   author:
     - family: Mohan
@@ -20923,6 +20856,17 @@ references:
   title: State of the art in workflow management research and products
   type: paper-conference
   volume: '25'
+
+- id: MontanaDataTrespass1991
+  citation-key: MontanaDataTrespass1991
+  container-title: Mont. Code
+  issued:
+    - year: 1991
+  jurisdiction: us:mt
+  section: 81-30-101
+  title: Montana Data Trespass Act
+  title-short: Montana AgGag
+  type: legislation
 
 - id: montgomerieHowCanWe2019
   abstract: >-
@@ -21640,6 +21584,17 @@ references:
   title: NC Property Protection Act
   type: legislation
 
+- id: NDAgGag1991
+  citation-key: NDAgGag1991
+  container-title: ND Cent. Code
+  issued:
+    - year: 1991
+  jurisdiction: us:nd
+  section: 12.1-21.1-01
+  title: ND AgGag
+  title-short: North Dakota AgGag
+  type: legislation
+
 - id: nejaimeConvincingElitesControlling2011
   accessed:
     - year: 2021
@@ -22128,6 +22083,17 @@ references:
   source: Google Books
   title: Contradictions of the Welfare State
   type: book
+
+- id: OhioAgGag2004
+  citation-key: OhioAgGag2004
+  container-title: "Ohio Rev.\_Code"
+  issued:
+    - year: 2004
+  jurisdiction: us:oh
+  section: '901.511'
+  title: Ohio AgGag
+  title-short: Ohio Agricultural Terrorism
+  type: legislation
 
 - id: olsonLogicCollectiveAction1971
   abstract: >-
@@ -25037,6 +25003,17 @@ references:
   title: 'Unions in Court: Organized Labour and the Charter of Rights and Freedoms'
   title-short: Unions in Court
   type: book
+
+- id: SCAgGag1992
+  citation-key: SCAgGag1992
+  container-title: SC Code Ann.
+  issued:
+    - year: 1992
+  jurisdiction: us:sc
+  section: 47-21
+  title: SC AgGag
+  title-short: SC AgGag
+  type: legislation
 
 - id: schillUseRandomResponse1995
   author:
@@ -28787,6 +28764,18 @@ references:
   type: webpage
   URL: http://www.attorneyfeestudy.com/
 
+- id: UtahAgGag2012
+  chapter-number: '2012'
+  citation-key: UtahAgGag2012
+  container-title: Utah Crim. Code
+  issued:
+    - year: 2012
+  jurisdiction: us:ut
+  section: 76-6-112
+  title: Utah AgGag
+  title-short: Utah AgGag
+  type: legislation
+
 - id: vaccaroEmergenceGlobalDebt2020
   abstract: |-
     Abstract
@@ -30082,6 +30071,31 @@ references:
   title: 'The Curse of Bigness: Antitrust in the New Gilded Age'
   title-short: The Curse of Bigness
   type: book
+
+- id: WyomingCivilData2015
+  chapter-number: '2015'
+  citation-key: WyomingCivilData2015
+  container-title: Wyo. Stat.
+  issued:
+    - year: 2015
+  jurisdiction: us:wy
+  section: 40-27-101
+  title: Wyoming Civil Data Trespass Act
+  title-short: Wyoming Civil Trespass
+  type: legislation
+
+- id: WyomingCriminalData2015
+  chapter-number: '2015'
+  citation-key: WyomingCriminalData2015
+  container-title: Wyo. Stat.
+  issued:
+    - year: 2015
+  jurisdiction: us:wy
+  references: "Laws 2015, ch.\_146, § 1, eff. March 5, 2015; Laws 2016, ch.\_117, §§ 1, 2, eff. March 15, 2016."
+  section: 6-3-414
+  title: Wyoming Criminal Data Trespass Act
+  title-short: Wyoming Criminal Trespass
+  type: legislation
 
 - id: yatesCanWorkingClass2018
   abstract: >-
