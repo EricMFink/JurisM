@@ -579,6 +579,15 @@ references:
   URL: https://doi.org/10.1177/2043820616676728
   volume: '6'
 
+- id: administrativeofficeoftheu.s.courtsUnderstandingFederalCourts
+  author:
+    - family: Administrative Office of the U.S. Courts
+      given: ''
+      literal: Administrative Office of the U.S. Courts
+  citation-key: administrativeofficeoftheu.s.courtsUnderstandingFederalCourts
+  title: Understanding the Federal Courts
+  type: article
+
 - id: AerotekInc2018
   authority: Court of Appeals
   citation-key: AerotekInc2018
@@ -709,21 +718,6 @@ references:
   volume: '39'
 
 - id: albistonRuleLawLitigation2014
-  abstract: >-
-    Litigation is a process rather than a choice between two alternatives.
-    Courts intervene in this process not only by encouraging settlement but also
-    through intermediate decisions that may not entirely resolve a case. Indeed,
-    although most cases settle, many do so after some sort of court
-    intervention. These points of intervention, like strategic settlement, also
-    present opportunities to shape the developing law. The ways in which the
-    litigation process and party-driven biases together might affect the
-    evolving law have not been explored, however.  It should also be recognized
-    that not all “law” is created in the same manner. Although Galanter’s
-  accessed:
-    - year: 2020
-      month: 8
-      day: 19
-  archive: JSTOR
   author:
     - family: Albiston
       given: Catherine
@@ -734,16 +728,13 @@ references:
       given: Erik
     - family: Schmidt
       given: Patrick
-  ISBN: 978-0-8147-7081-8
   issued:
     - year: 2014
   page: 16-23
   publisher: NYU Press
-  source: JSTOR
   title: 'The Rule of Law and the Litigation Process: The Paradox of Losing by Winning'
   title-short: The Rule of Law and the Litigation Process
   type: chapter
-  URL: https://www.jstor.org/stable/j.ctt9qg0dk.7
 
 - id: alfordPowersTheoryCapitalism1985
   abstract: >-
@@ -788,18 +779,6 @@ references:
   title: 'Powers of Theory: Capitalism, the State, and Democracy'
   title-short: Powers of Theory
   type: book
-
-- id: AlgrecoSportswearCo1984
-  authority: NLRB
-  citation-key: AlgrecoSportswearCo1984
-  container-title: N.L.R.B.
-  issued:
-    - year: 1984
-  jurisdiction: us
-  page: '499'
-  title: Algreco Sportswear Co.
-  type: legal_case
-  volume: '271'
 
 - id: almeidaSocialMovements2019
   author:
@@ -916,6 +895,18 @@ references:
   title: 'Imagined Communities: Reflections on the Origin and Spread of Nationalism'
   title-short: Imagined Communities
   type: book
+
+- id: AndersonLibertyLobby1986
+  citation-key: AndersonLibertyLobby1986
+  container-title: U.S.
+  issued:
+    - year: 1986
+  jurisdiction: us
+  page: '242'
+  title: Anderson v. Liberty Lobby, Inc.
+  title-short: Anderson
+  type: legal_case
+  volume: '477'
 
 - id: andersonLineagesAbsolutistState1979
   abstract: >-
@@ -1182,7 +1173,7 @@ references:
   volume: '126'
 
 - id: AnimalLegalDefense2015
-  authority: District Court
+  authority: D. Idaho
   citation-key: AnimalLegalDefense2015
   container-title: F. Supp. 3d
   issued:
@@ -1195,7 +1186,7 @@ references:
   volume: '118'
 
 - id: AnimalLegalDefense2017
-  authority: district.court
+  authority: D. Utah
   citation-key: AnimalLegalDefense2017
   container-title: F. Supp. 3d
   issued:
@@ -1208,7 +1199,7 @@ references:
   volume: '263'
 
 - id: AnimalLegalDefense2018
-  authority: District Court
+  authority: S.D. Iowa
   citation-key: AnimalLegalDefense2018
   container-title: F. Supp. 3d
   issued:
@@ -1221,7 +1212,7 @@ references:
   volume: '297'
 
 - id: AnimalLegalDefense2018a
-  authority: district.court
+  authority: D. Idaho
   citation-key: AnimalLegalDefense2018a
   container-title: F. Supp. 3d
   issued:
@@ -1235,7 +1226,7 @@ references:
   volume: '312'
 
 - id: AnimalLegalDefense2018b
-  authority: Court of Appeals
+  authority: 9th Circuit
   citation-key: AnimalLegalDefense2018b
   container-title: F. 3d
   issued:
@@ -1248,7 +1239,7 @@ references:
   volume: '878'
 
 - id: AnimalLegalDefense2019
-  authority: district.court
+  authority: S.D. Iowa
   citation-key: AnimalLegalDefense2019
   container-title: F.Supp.3d
   issued:
@@ -1268,7 +1259,7 @@ references:
 - id: AnimalLegalDefense2019a
   archive: WL
   archive_location: '1493717'
-  authority: district.court
+  authority: S.D. Iowa
   citation-key: AnimalLegalDefense2019a
   collection-number: '2019'
   issued:
@@ -1281,7 +1272,7 @@ references:
   type: legal_case
 
 - id: AnimalLegalDefense2020
-  authority: District Court
+  authority: D. Kansas
   citation-key: AnimalLegalDefense2020
   container-title: F.Supp.3d
   issued:
@@ -1298,11 +1289,8 @@ references:
   volume: '434'
 
 - id: AnimalLegalDefense2020a
-  archive: WL
-  archive_location: '10319760'
-  authority: district.court
+  authority: E.D. Arkansas
   citation-key: AnimalLegalDefense2020a
-  collection-number: '2020'
   issued:
     - year: 2020
       month: 2
@@ -1318,7 +1306,7 @@ references:
     - year: 2022
       month: 1
       day: 14
-  authority: court.appeals
+  authority: 10th Circuit
   citation-key: AnimalLegalDefense2021
   container-title: F.4th
   issued:
@@ -1341,24 +1329,27 @@ references:
   volume: '9'
 
 - id: AnimalLegalDefense2021a
-  authority: court.appeals
+  authority: 8th Circuit
   citation-key: AnimalLegalDefense2021a
+  container-title: F.4th
   issued:
     - year: 2021
       month: 8
       day: 9
   jurisdiction: us:c8
   number: 20-1538
+  page: '714'
   title: Animal Legal Defense Fund v. Vaught
   title-short: ALDF v. Vaught
   type: legal_case
+  volume: '8'
 
 - id: AnimalLegalDefense2021b
   accessed:
     - year: 2022
       month: 1
       day: 14
-  authority: court.appeals
+  authority: 8th Circuit
   citation-key: AnimalLegalDefense2021b
   container-title: F.4th
   issued:
@@ -1378,6 +1369,19 @@ references:
   URL: >-
     https://1.next.westlaw.com/Search/Results.html?query=find:8%20F.4th%20781#autoLogin
   volume: '8'
+
+- id: AnimalLegalDefense2022
+  authority: S.D. Iowa
+  citation-key: AnimalLegalDefense2022
+  issued:
+    - year: 2022
+      month: 3
+      day: 14
+  jurisdiction: us:c8:ia.sd
+  number: 4:19-cv-00124-SMR-HCA
+  title: Animal Legal Defense Fund v. Reynolds
+  title-short: Reynolds
+  type: legal_case
 
 - id: appelbaumEconomistsHourFalse2019
   abstract: >-
@@ -1570,6 +1574,25 @@ references:
   URL: >-
     https://www.nytimes.com/2015/08/12/us/data-on-use-of-force-by-police-across-us-proves-almost-useless.html
 
+- id: arbelConsumerActivismInformed2020
+  author:
+    - family: Arbel
+      given: Yonathan
+    - family: Shapira
+      given: Roy
+  citation-key: arbelConsumerActivismInformed2020
+  container-title: DePaul Law Review
+  ISSN: 0011-7188
+  issue: '2'
+  issued:
+    - year: 2020
+  page: '233'
+  title: 'Consumer Activism: From The Informed Minority To The Crusading Minority'
+  title-short: Consumer Activism
+  type: article-journal
+  URL: https://via.library.depaul.edu/law-review/vol69/iss2/3
+  volume: '69'
+
 - id: arce-ibarraNonManagementNaturalResources2008
   abstract: >-
     This study explores the management of inland fisheries on common lands
@@ -1656,6 +1679,17 @@ references:
     Information Market
   type: article-journal
   volume: '10'
+
+- id: ArkansasCivilCause2017
+  citation-key: ArkansasCivilCause2017
+  container-title: Ark. Code
+  issued:
+    - year: 2017
+  jurisdiction: us:ar
+  section: 16-118-113
+  title: (Arkansas) Civil Cause of Action for Unauthorized Access to Property
+  title-short: Arkansas DataTrespass
+  type: legislation
 
 - id: arlinghausConservationFisheryBenefits2010
   author:
@@ -1751,6 +1785,60 @@ references:
   title-short: Rich Texts
   type: report
   URL: https://papers.ssrn.com/abstract=1566148
+
+- id: arnesenWhitenessHistoriansImagination2001
+  abstract: >-
+    Scholarship on whiteness has grown dramatically over the past decade,
+    affecting numerous academic disciplines from literary criticism and American
+    studies to history, sociology, geography, education, and anthropology.
+    Despite its visibility and quantity, the genre has generated few serious
+    historiographical assessments of its rise, development, strengths, and
+    weaknesses. This essay, which critically examines the concept of whiteness
+    and the ways labor historians have built their analyses around it, seeks to
+    subject historical studies of whiteness to overdue scrutiny and to stimulate
+    a debate on the utility of whiteness as a category of historical analysis.
+    Toward that end, the essay explores the multiple and shifting definitions of
+    whiteness used by scholars, concluding that historians have employed
+    arbitrary and inconsistent definitions of their core concept, some overly
+    expansive or metaphorically grounded and others that are radically
+    restricted; whiteness has become a blank screen onto which those who claim
+    to analyze it can project their own meanings. The essay critically examines
+    historians' use of W. E. B. Du Bois's reflections on the "psychological
+    wage"—something of a foundational text for whiteness scholars—and concludes
+    that the "psychological wage" of whiteness serves poorly as a new
+    explanation for the old question of why white workers have refused to make
+    common cause with African Americans. Whiteness scholars' assertions of the
+    nonwhite status of various immigrant groups (the Irish and eastern and
+    southern Europeans in particular) and the processes by which these groups
+    allegedly became white are challenged, as is whiteness scholars' tendency
+    toward highly selective readings of racial discourses. The essay faults some
+    whiteness scholarship produced by historians for a lack of grounding in
+    archival and other empirical evidence, for passive voice constructions
+    (which obscure the agents who purportedly define immigrants as not white),
+    and for a problematic reliance upon psychohistory in the absence of actual
+    immigrant voices. Historians' use of the concept of whiteness, the essay
+    concludes, suffers from a number of potentially fatal methodological and
+    conceptual flaws; within American labor history, the whiteness project has
+    failed to deliver on its promises.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 7
+  author:
+    - family: Arnesen
+      given: Eric
+  citation-key: arnesenWhitenessHistoriansImagination2001
+  container-title: International Labor and Working-Class History
+  ISSN: 0147-5479
+  issue: '60'
+  issued:
+    - year: 2001
+  page: 3-32
+  publisher: Cambridge University Press
+  source: JSTOR
+  title: Whiteness and the Historians' Imagination
+  type: article-journal
+  URL: https://www.jstor.org/stable/27672732
 
 - id: arnoldAntisemitismLeftConfronting2019
   abstract: >-
@@ -1873,6 +1961,32 @@ references:
     litigation documents into law firm workflow
   type: patent
   URL: https://patents.google.com/patent/US8185560B2/en
+
+- id: AshcroftIqbal2009
+  citation-key: AshcroftIqbal2009
+  container-title: US
+  issued:
+    - year: 2009
+  jurisdiction: us
+  page: '662'
+  title: Ashcroft v. Iqbal
+  type: legal_case
+  volume: '556'
+
+- id: AshfordTRSNickel2018
+  authority: NLRB
+  citation-key: AshfordTRSNickel2018
+  container-title: N.L.R.B.
+  document-number: '6'
+  issued:
+    - year: 2018
+      month: 2
+      day: 1
+  jurisdiction: us
+  number: 19-CA-032761
+  title: Ashford TRS Nickel, LLC
+  type: legal_case
+  volume: '366'
 
 - id: ashiagborIntroductionMovingEconomic2013
   accessed:
@@ -2377,6 +2491,48 @@ references:
   URL: http://www.jstor.org/stable/43670448
   volume: '48'
 
+- id: barrettYourDebtsAre2020
+  abstract: >-
+    Abstract Unlike in other countries with debt-saddled populations, the issue
+    of consumer debt has been weakly politicized in Azerbaijan. There have been
+    no social movements of the kind that occurred around the financial crises in
+    the United States, the European periphery, or even in Ukraine's
+    post-revolution attempt at a “financial Maidan.” The lack of a public
+    politics of debt left banks to act as predators, using a weak court system
+    to intimidate people and obtain repayment of debts. Yet the constraints to
+    the public sphere within which a contentious politics might unfold does not
+    mean no such politicization exists. Using the example of Antikollektor, a
+    successful anti-debt-collection agency in Baku, this article demonstrates
+    the usefulness of building an understanding of civil society outside of the
+    reductivist frames that shape recent debates over the authoritarian backlash
+    against foreign-funded organized civil society in the former Eastern Bloc.
+  accessed:
+    - year: 2022
+      month: 1
+      day: 16
+  author:
+    - family: Barrett
+      given: Tristam
+  citation-key: barrettYourDebtsAre2020
+  container-title: Focaal
+  DOI: 10.3167/fcl.2020.012801
+  ISSN: 1558-5263, 0920-1297
+  issue: '87'
+  issued:
+    - year: 2020
+      month: 6
+      day: 1
+  language: en_US
+  page: 1-15
+  publisher: Berghahn Journals
+  section: Focaal
+  source: www.berghahnjournals.com
+  title: '"Your debts are our problem”" The politicization of debt in Azerbaijan'
+  title-short: “Your debts are our problem”
+  type: article-journal
+  URL: https://www.berghahnjournals.com/view/journals/focaal/2020/87/fcl870101.xml
+  volume: '2020'
+
 - id: barrowCriticalTheoriesState1993
   abstract: >-
     Critical Theories of the State is a clear and accessible survey of radical
@@ -2621,6 +2777,44 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.38
 
+- id: beckInequalityHumanRight2021
+  accessed:
+    - year: 2022
+      month: 2
+      day: 26
+  author:
+    - family: Beck
+      given: Jonathan C.
+  citation-key: beckInequalityHumanRight2021
+  container-title: Law & Social Inquiry
+  DOI: 10.1017/lsi.2021.25
+  ISSN: 0897-6546
+  issue: '1'
+  issued:
+    - year: 2021
+      month: 9
+      day: 24
+  note: 'Saved from BrowZine: https://thirdiron.com/download'
+  page: 236 - 260
+  title: >-
+    Inequality and the Human Right to Tuition-Free Higher Education: Mobilizing
+    Human Rights Law in the German Movement against Tuition Fees
+  type: article-journal
+  URL: https://browzine.com/articles/499700112
+  volume: '47'
+
+- id: BeeckAquaslideNDive1977
+  authority: 8th Cir.
+  citation-key: BeeckAquaslideNDive1977
+  container-title: F. 2d
+  issued:
+    - year: 1977
+  jurisdiction: us:c8
+  page: '537'
+  title: Beeck v. AquaslideN'Dive Corp.
+  type: legal_case
+  volume: '562'
+
 - id: befortDemystifyingFederalLabor1998
   accessed:
     - year: 2019
@@ -2642,6 +2836,17 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/40862619
   volume: '13'
+
+- id: BellAtlanticCorp2007
+  citation-key: BellAtlanticCorp2007
+  container-title: US
+  issued:
+    - year: 2007
+  jurisdiction: us
+  page: '544'
+  title: Bell Atlantic Corp. v. Twombly
+  type: legal_case
+  volume: '550'
 
 - id: bellServingTwoMasters1976
   accessed:
@@ -2739,6 +2944,20 @@ references:
   title: 'Kings Or People: Power and the Mandate to Rule'
   title-short: Kings Or People
   type: book
+
+- id: benetDevilDanielWebster1936
+  author:
+    - family: Benét
+      given: Stephen Vincent
+  citation-key: benetDevilDanielWebster1936
+  container-title: The Saturday Evening Post
+  issued:
+    - year: 1936
+      month: 10
+      day: 24
+  page: '18'
+  title: The Devil & Daniel Webster
+  type: article-magazine
 
 - id: benjaminsLawSemanticWeb2005
   author:
@@ -3482,6 +3701,18 @@ references:
   URL: http://www.jstor.org/stable/27592234
   volume: '71'
 
+- id: BlumInternationalAssociation1964
+  authority: Supreme Court
+  citation-key: BlumInternationalAssociation1964
+  container-title: N.J.
+  issued:
+    - year: 1964
+  jurisdiction: us:nj
+  page: '389'
+  title: Blum v. International Association of Machinists, AFL-CIO
+  type: legal_case
+  volume: '42'
+
 - id: blummNativeFishingRights1989
   author:
     - family: Blumm
@@ -3618,6 +3849,20 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/glj105&i=835
   volume: '105'
+
+- id: BoeingCompany2017
+  authority: NLRB
+  citation-key: BoeingCompany2017
+  container-title: N.L.R.B.
+  document-number: '154'
+  issued:
+    - year: 2017
+      month: 12
+      day: 14
+  jurisdiction: us
+  title: The Boeing Company
+  type: legal_case
+  volume: '365'
 
 - id: boellaEunomosLegalDocument2011
   abstract: >-
@@ -3802,21 +4047,6 @@ references:
   source: Amazon
   title: 'Major Problems in the History of American Workers: Documents and Essays'
   title-short: Major Problems in the History of American Workers
-  type: book
-
-- id: bottomoreDictionaryMarxistThought1983
-  author:
-    - family: Bottomore
-      given: Tom <ed>
-  call-number: '0006'
-  citation-key: bottomoreDictionaryMarxistThought1983
-  event-place: Cambridge, Massachusetts
-  issued:
-    - year: 1983
-  note: '00742'
-  publisher: Harvard University Press
-  publisher-place: Cambridge, Massachusetts
-  title: A Dictionary of Marxist Thought
   type: book
 
 - id: bottomoreHistorySociologicalAnalysis1978
@@ -4227,6 +4457,69 @@ references:
   title: Encyclopedia of the Consumer Movement
   type: book
 
+- id: brocicInfluenceSimmelAmerican2021
+  accessed:
+    - year: 2022
+      month: 2
+      day: 26
+  author:
+    - family: Broćić
+      given: Miloš
+    - family: Silver
+      given: Daniel
+  citation-key: brocicInfluenceSimmelAmerican2021
+  container-title: Annual Review of Sociology
+  DOI: 10.1146/annurev-soc-090320-033647
+  ISSN: 0360-0572
+  issue: '1'
+  issued:
+    - year: 2021
+      month: 7
+      day: 31
+  note: 'Saved from BrowZine: https://thirdiron.com/download'
+  page: 87 - 108
+  title: The Influence of Simmel on American Sociology Since 1975
+  type: article-journal
+  URL: https://browzine.com/articles/471316407
+  volume: '47'
+
+- id: brodyHouseholdDebtPeripheries2020
+  abstract: >-
+    This English booklet follows the structure of the workshop we organized in
+    November 2019, and discusses the structural similarities of household
+    indebtedness on the peripheries of Europe with many case studies. It can be
+    used as informational document for the wider public or as resources for
+    popular education done by organizations working with issues of housing and /
+    or indebtedness. Our aim with this and the working paper entitled The
+    Indebtedness of Households in Hungary is to make complex processes and
+    structural factors behind indebtedness more transparent and understandable.
+  accessed:
+    - year: 2022
+      month: 1
+      day: 16
+  author:
+    - family: Bródy
+      given: Luca Sára
+    - family: Pósfai
+      given: Zsuzsanna
+  citation-key: brodyHouseholdDebtPeripheries2020
+  event-place: Budapest
+  ISBN: 978-615-00-8223-3
+  issued:
+    - year: 2020
+  language: en
+  number-of-pages: '84'
+  publisher: >-
+    Periféria Policy and Research Center = Periféria Közpolitikai és
+    Kutatóközpont
+  publisher-place: Budapest
+  source: real.mtak.hu
+  title: 'Household debt on the peripheries of Europe : New constellations since 2008'
+  title-short: Household debt on the peripheries of Europe
+  type: book
+  URL: https://www.periferiacenter.com/periferia-working-papers
+  volume: '3'
+
 - id: brodyLaborVsLaw2004
   accessed:
     - year: 2019
@@ -4317,6 +4610,43 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/ualr31&i=609
   volume: '31'
+
+- id: brubakerDebtorWorldInterdisciplinary2012
+  abstract: >-
+    A Debtor World contains a collection of contributions about the societal
+    implications of private debt. The essays comprising this volume are authored
+    by dozens of leading U.S. and international academics who have written about
+    debt or issues related to debt in a wide range of disciplines including law,
+    sociology, psychology, history, economics, and more. The goal of this
+    collection is to explore debt neither as a problem nor a solution but as a
+    phenomenon and to promote the exchange of knowledge to better comprehend why
+    consumers and businesses decide to borrow money. It asks what happens to
+    businesses and consumers under a heavy debt load, and what legal norms and
+    institutions societies need to encourage the efficient use of debt while
+    promoting a greater understanding of the global phenomenon of increased
+    indebtedness and societal dependence.
+  author:
+    - family: Brubaker
+      given: Ralph
+    - family: Lawless
+      given: Robert M.
+    - family: Tabb
+      given: Charles J.
+    - family: Tabb
+      given: Charles Jordan
+  citation-key: brubakerDebtorWorldInterdisciplinary2012
+  ISBN: 978-0-19-987372-2
+  issued:
+    - year: 2012
+      month: 11
+      day: 15
+  language: en
+  number-of-pages: '325'
+  publisher: OUP USA
+  source: Google Books
+  title: 'A Debtor World: Interdisciplinary Perspectives on Debt'
+  title-short: A Debtor World
+  type: book
 
 - id: buchterTellMeYour2020
   accessed:
@@ -4603,6 +4933,18 @@ references:
   title-short: Strike Back
   type: book
 
+- id: ByrdBlueRidge1958
+  citation-key: ByrdBlueRidge1958
+  container-title: U.S.
+  issued:
+    - year: 1958
+  jurisdiction: us
+  page: '525'
+  title: Byrd v. Blue Ridge Rural Elec. Co-op., Inc.
+  title-short: Byrd
+  type: legal_case
+  volume: '356'
+
 - id: cacaudFisheriesLawsRegulations2005
   author:
     - family: Cacaud
@@ -4798,18 +5140,28 @@ references:
   title-short: Invitation to Law and Society, Second Edition
   type: book
 
-- id: CaliforniaAcrylicIndustries1996
-  authority: NLRB
-  citation-key: CaliforniaAcrylicIndustries1996
-  container-title: N.L.R.B.
+- id: CalderJones1984
+  citation-key: CalderJones1984
+  container-title: US
   issued:
-    - year: 1996
+    - year: 1984
   jurisdiction: us
-  page: '41'
-  references: enfd. in relevant part 150 F.3d 1095 (9th Cir. 1998)
-  title: California Acrylic Industries, Inc.
+  page: '783'
+  title: Calder v. Jones
   type: legal_case
-  volume: '322'
+  volume: '465'
+
+- id: CamachoBaseball2013
+  authority: S.D. Cal.
+  citation-key: CamachoBaseball2013
+  issued:
+    - year: 2013
+      month: 12
+      day: 19
+  jurisdiction: us:c9:ca.sd
+  number: Case No. 12-cv-2859-L(BGS)
+  title: Camacho v. Baseball
+  type: legal_case
 
 - id: CamscoProduceCo1990
   authority: NLRB
@@ -5163,6 +5515,18 @@ references:
   type: post-weblog
   URL: https://lpeblog.org/2019/10/02/the-market-does-not-bind-us/
 
+- id: CelotexCorpCatrett1986
+  citation-key: CelotexCorpCatrett1986
+  container-title: U.S.
+  issued:
+    - year: 1986
+  jurisdiction: us
+  page: '317'
+  title: Celotex Corp. v. Catrett
+  title-short: Celotex Corp.
+  type: legal_case
+  volume: '477'
+
 - id: centerforconstitutionalrightsAgGagAmericaCorporateBacked2017
   author:
     - family: Center for Constitutional Rights
@@ -5304,29 +5668,6 @@ references:
   type: article-journal
   URL: https://browzine.com/articles/60538984
   volume: '16'
-
-- id: CivilCauseAction2017
-  citation-key: CivilCauseAction2017
-  container-title: Ark. Code
-  issued:
-    - year: 2017
-  jurisdiction: us:ar
-  section: 16-118-113
-  title: Civil Cause of Action for Unauthorized Access to Property
-  title-short: Arkansas DataTrespass
-  type: legislation
-
-- id: CivilRemediesInterference2015
-  citation-key: CivilRemediesInterference2015
-  container-title: N.C.G.S.
-  issued:
-    - year: 2015
-  jurisdiction: us:nc
-  language: en-US
-  section: § 99A-2
-  title: Civil Remedies for Interference with Property
-  title-short: NC Property Protection Act
-  type: legislation
 
 - id: clarkCoercionContractMargins2018
   abstract: >-
@@ -5527,11 +5868,6 @@ references:
     either a breakdown in social relationships or a lack of close relationships
     at the outset (e.g., Macaulay 1963; Galanter 1983; Ellickson 1991). Most
     people do not rush
-  accessed:
-    - year: 2020
-      month: 8
-      day: 19
-  archive: JSTOR
   author:
     - family: Coglianese
       given: Cary
@@ -5542,18 +5878,14 @@ references:
       given: Erik
     - family: Schmidt
       given: Patrick
-  ISBN: 978-0-8147-7081-8
   issued:
     - year: 2014
   page: 185-192
   publisher: NYU Press
-  source: JSTOR
   title: >-
     Litigating within Relationships: Disputes and Disturbance in the Regulatory
     Process
-  title-short: Litigating within Relationships
   type: chapter
-  URL: https://www.jstor.org/stable/j.ctt9qg0dk.28
 
 - id: cohenCollectiveBargainingPriority2005
   accessed:
@@ -5662,6 +5994,37 @@ references:
   title-short: Wobblies of the World
   type: book
 
+- id: collectiveRepresentingRadicalsGuide2021
+  abstract: >-
+    Representing Radicals helps lawyers understand ways to work with radical
+    defendants, with an explicit focus on how to help them achieve ends that go
+    beyond traditional legal goals. For example, many radical defendants want to
+    use their trials to discuss political issues even if doing so could lead to
+    a conviction when a standard criminal defense might lead to an acquittal.
+    Understanding radical defendants’ goals and political priorities is a
+    crucial part of providing them with the most robust criminal defense while
+    helping them strengthen and defend their social movements. This book and its
+    precursor, A Tilted Guide to Being a Defendant, are based on the Tilted
+    Scales Collective’s belief that lawyers and radical defendants can work
+    together in shared struggle in ways that strengthen movements when fighting
+    criminal charges.
+  author:
+    - family: Collective
+      given: Tilted Scales
+  citation-key: collectiveRepresentingRadicalsGuide2021
+  ISBN: 978-1-84935-417-2
+  issued:
+    - year: 2021
+      month: 5
+      day: 4
+  language: en
+  number-of-pages: '184'
+  publisher: AK Press
+  source: Google Books
+  title: 'Representing Radicals: A Guide for Lawyers and Movements'
+  title-short: Representing Radicals
+  type: book
+
 - id: commonsDocumentaryHistoryAmerican1910
   citation-key: commonsDocumentaryHistoryAmerican1910
   editor:
@@ -5673,6 +6036,18 @@ references:
   number-of-volumes: '10'
   title: A Documentary History of American Industrial Society
   type: book
+
+- id: CompleteBusinessSolutions2020
+  authority: E.D. Pa.
+  citation-key: CompleteBusinessSolutions2020
+  issued:
+    - year: 2020
+      month: 7
+      day: 16
+  jurisdiction: us:c3:pa.ed
+  number: Civil Action No. 20-724
+  title: Complete Business Solutions Group, Inc. v. Annie's Pooch Pops Llc
+  type: legal_case
 
 - id: contiGoodCaseDecisions2014
   abstract: >-
@@ -6203,6 +6578,17 @@ references:
   title-short: How Democratic is the American Constitution?
   type: book
 
+- id: DaimlerAgBauman2014
+  citation-key: DaimlerAgBauman2014
+  container-title: S. Ct.
+  issued:
+    - year: 2014
+  jurisdiction: us
+  page: '746'
+  title: Daimler Ag v. Bauman
+  type: legal_case
+  volume: '134'
+
 - id: dallSaltingEarthOrganizing2002
   accessed:
     - year: 2019
@@ -6401,8 +6787,8 @@ references:
   publisher: Bristol University Press
   source: JSTOR
   title: >-
-    ‘Deferred lives’:: money, debt and the financialised futures of young
-    temporary workers
+    "Deferred lives": Money, Debt and the Financialised Futures of Young
+    Temporary Workers
   title-short: ‘Deferred lives’
   type: chapter
   URL: https://www.jstor.org/stable/j.ctvggx2fq.9
@@ -6497,6 +6883,18 @@ references:
     Labor Unions, Management Innovation and Organizational Change in Police
     Departments
   type: book
+
+- id: DeltaSonicCarwashSystems1995
+  authority: Supreme Court, Monroe County
+  citation-key: DeltaSonicCarwashSystems1995
+  container-title: Misc.
+  issued:
+    - year: 1995
+  jurisdiction: us:ny
+  page: '672'
+  title: Delta-Sonic Carwash Systems, Inc. v. Building Trades Council, AFL-CIO
+  type: legal_case
+  volume: '168'
 
 - id: denisISAHandbookContemporary2009
   abstract: >-
@@ -6638,6 +7036,18 @@ references:
   title: 'Evicted: Poverty and Profit in the American City'
   title-short: Evicted
   type: book
+
+- id: DeutschSchoelkopf2016
+  authority: W.D. Wash.
+  citation-key: DeutschSchoelkopf2016
+  issued:
+    - year: 2016
+      month: 12
+      day: 14
+  jurisdiction: us:c9:wa.wd
+  number: Case No. 3:16-CV-05561-RBL
+  title: Deutsch v. Schoelkopf
+  type: legal_case
 
 - id: devilleDebtorPublicsTracking2016
   abstract: >-
@@ -6836,6 +7246,20 @@ references:
   title-short: Merchants of Law as Moral Entrepreneurs
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.43
+
+- id: dickensBleakHouse2003
+  author:
+    - family: Dickens
+      given: Charles
+  citation-key: dickensBleakHouse2003
+  issued:
+    - year: 2003
+  language: en-US
+  original-date:
+    - year: 1852
+  publisher: Penguin Classics
+  title: Bleak House
+  type: book
 
 - id: DidThisCompany2019
   accessed:
@@ -7108,6 +7532,62 @@ references:
   publisher-place: Brno, Chzech Republic
   title: Debt Literacy and Its Importance in the Czech Republic
   type: paper-conference
+
+- id: dolenecKeepingRoofYour2021
+  abstract: >-
+    We establish features of political opportunity structures of Croatia and
+    Serbia as parameters that help explain the strategies pursued by housing and
+    anti-debt social movements in the two countries. Relying on the protest
+    event analysis data for 2007–2017, we identify peaks in protest
+    mobilisations and levels of disruptiveness. Furthermore, we analyse the
+    actors' strategy of electoral contestation and compare it across cases. In
+    Croatia, movement actors organised into political parties, while in Serbia,
+    the electoral turn has remained fringe. We argue that this divergence can be
+    explained by different levels of institutional openness to new challengers.
+  accessed:
+    - year: 2022
+      month: 1
+      day: 16
+  author:
+    - family: Dolenec
+      given: Danijela
+    - family: Kralj
+      given: Karlo
+    - family: Balković
+      given: Ana
+  citation-key: dolenecKeepingRoofYour2021
+  container-title: East European Politics
+  DOI: 10.1080/21599165.2021.1937136
+  ISSN: 2159-9165
+  issue: '0'
+  issued:
+    - year: 2021
+      month: 6
+      day: 17
+  note: '_eprint: https://doi.org/10.1080/21599165.2021.1937136'
+  page: 1-17
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: >-
+    Keeping a roof over your head: housing and anti-debt movements in Croatia
+    and Serbia during the Great Recession
+  title-short: Keeping a roof over your head
+  type: article-journal
+  URL: https://doi.org/10.1080/21599165.2021.1937136
+  volume: '0'
+
+- id: DolphinKickboxingCo2020
+  authority: D. Minn.
+  citation-key: DolphinKickboxingCo2020
+  container-title: F.R.D.
+  issued:
+    - year: 2020
+  jurisdiction: us:c8:mn.d
+  page: '393'
+  title: Dolphin Kickboxing Co. v. Franchoice, Inc.
+  title-short: Dolphin Kickboxing
+  type: legal_case
+  volume: '335'
 
 - id: domhoffPowerEliteState2017
   abstract: >-
@@ -7776,38 +8256,6 @@ references:
   title-short: Nickel and Dimed
   type: book
 
-- id: ellenOriginCapitalismLonger2017
-  abstract: >-
-    How did the dynamic economic system we know as capitalism develop among the
-    peasants and lords of feudal Europe?In The Origin of Capitalism, a
-    now-classic work of history, Ellen Meiksins Wood offers readers a clear and
-    accessible introduction to the theories and debates concerning the birth of
-    capitalism, imperialism, and the modern nation state. Capitalism is not a
-    natural and inevitable consequence of human nature, nor simply an extension
-    of age-old practices of trade and commerce. Rather, it is a late and
-    localized product of very specific historical conditions, which required
-    great transformations in social relations and in the relationship between
-    humans and nature.
-  author:
-    - family: Ellen
-      given: Meiksins Wood
-  citation-key: ellenOriginCapitalismLonger2017
-  edition: Reprint edition
-  event-place: London ; New York
-  ISBN: 978-1-78663-068-1
-  issued:
-    - year: 2017
-      month: 5
-      day: 2
-  language: English
-  number-of-pages: '224'
-  publisher: Verso
-  publisher-place: London ; New York
-  source: Amazon
-  title: 'The Origin of Capitalism: A Longer View'
-  title-short: The Origin of Capitalism
-  type: book
-
 - id: elliott-negriThwartingJanusNew2018
   accessed:
     - year: 2018
@@ -7938,16 +8386,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.40
 
-- id: English
-  accessed:
-    - year: 2021
-      month: 1
-      day: 22
-  citation-key: English
-  title: English
-  type: webpage
-  URL: https://www.cadtm.org/English
-
 - id: epsteinCommonLawLabor1983
   author:
     - family: Epstein
@@ -7988,6 +8426,18 @@ references:
   URL: https://www.jstor.org/stable/1599554
   volume: '51'
 
+- id: ErieCoTompkins1938
+  citation-key: ErieCoTompkins1938
+  container-title: U.S.
+  issued:
+    - year: 1938
+  jurisdiction: us
+  page: '64'
+  title: Erie R. Co. v. Tompkins
+  title-short: Erie R.
+  type: legal_case
+  volume: '304'
+
 - id: ernstLawyersLaborIndividual1995
   author:
     - family: Ernst
@@ -8027,20 +8477,6 @@ references:
     Birth of the Leviathan: Building States and Regimes in Medieval and Early
     Modern Europe
   title-short: Birth of the Leviathan
-  type: book
-
-- id: ervinGatewayEqualityBlack2017
-  author:
-    - family: Ervin
-      given: Keona K.
-  citation-key: ervinGatewayEqualityBlack2017
-  collection-title: Civil Rights and the Struggle for Black Equality in the Twentieth Century
-  issued:
-    - year: 2017
-  publisher: University Press of Kentucky
-  title: >-
-    Gateway to Equality: Black Women and the Struggle for Economic Justice in
-    St. Louis
   type: book
 
 - id: estlundFallRisePrivate2020
@@ -8333,6 +8769,17 @@ references:
   title-short: Examining Union Salting Abuses
   type: report
 
+- id: ExxonMobilCorp2005
+  citation-key: ExxonMobilCorp2005
+  container-title: US
+  issued:
+    - year: 2005
+  jurisdiction: us
+  page: '546'
+  title: Exxon Mobil Corp. v. Allapattah Services, Inc.
+  type: legal_case
+  volume: '545'
+
 - id: fantasiaCultureRebellionAppropriation1995
   abstract: >-
     Theorists recently have made strides in answering key questions about social
@@ -8617,6 +9064,18 @@ references:
   title: The Sociology of Debt
   type: book
 
+- id: FederalSecurityInc2012
+  authority: NLRB
+  citation-key: FederalSecurityInc2012
+  container-title: N.L.R.B.
+  issued:
+    - year: 2012
+  jurisdiction: us
+  page: '1'
+  title: Federal Security, Inc.
+  type: legal_case
+  volume: '359'
+
 - id: federiciCommoningDebtFinancialization2014
   accessed:
     - year: 2021
@@ -8740,6 +9199,27 @@ references:
   title: Labor Guide to Labor Law
   type: book
 
+- id: felstinerEmergenceTransformationDisputes1980
+  author:
+    - family: Felstiner
+      given: William L.F.
+    - family: Abel
+      given: Richard L.
+    - family: Sarat
+      given: Austin
+  citation-key: felstinerEmergenceTransformationDisputes1980
+  container-title: Law & Society Review
+  issue: 3/4
+  issued:
+    - year: 1980
+  page: '631'
+  title: >-
+    The Emergence and Transformation of Disputes: Naming, Blaming, Claiming . .
+    .
+  title-short: The Emergence and Transformation of Disputes
+  type: article-journal
+  volume: '15'
+
 - id: felstinerWorkingCrowdEmployment2011
   accessed:
     - year: 2016
@@ -8852,6 +9332,112 @@ references:
   title: Police Professionalization and Police Unions
   type: article-journal
   volume: '3'
+
+- id: fieldsRacecraftSoulInequality2022
+  abstract: >-
+    A new edition of a celebrated contemporary work on race and racismPraised by
+    a wide variety of people from Ta-Nehisi Coates to Zadie Smith, Racecraft
+    "ought to be positioned," as Bookforum put it, "at the center of any
+    discussion of race in American life."Most people assume racism grows from a
+    perception of human difference: the fact of race gives rise to the practice
+    of racism. Sociologist Karen E. Fields and historian Barbara J. Fields argue
+    otherwise: the practice of racism produces the illusion of race, through
+    what they call “racecraft.” And this phenomenon is intimately entwined with
+    other forms of inequality in American life. So pervasive are the devices of
+    racecraft in American history, economic doctrine, politics, and everyday
+    thinking that the presence of racecraft itself goes unnoticed.That the
+    promised post-racial age has not dawned, the authors argue, reflects the
+    failure of Americans to develop a legitimate language for thinking about and
+    discussing inequality. That failure should worry everyone who cares about
+    democratic institutions.
+  author:
+    - family: Fields
+      given: Barbara J.
+    - family: Fields
+      given: Karen E.
+  citation-key: fieldsRacecraftSoulInequality2022
+  ISBN: 978-1-83976-564-3
+  issued:
+    - year: 2022
+      month: 2
+      day: 1
+  language: en
+  number-of-pages: '321'
+  publisher: Verso Books
+  source: Google Books
+  title: 'Racecraft: The Soul of Inequality in American Life'
+  title-short: Racecraft
+  type: book
+
+- id: fieldsRoguesGeldings2003
+  accessed:
+    - year: 2022
+      month: 2
+      day: 7
+  author:
+    - family: Fields
+      given: Barbara J.
+  citation-key: fieldsRoguesGeldings2003
+  container-title: The American Historical Review
+  DOI: 10.1086/529973
+  ISSN: 0002-8762
+  issue: '5'
+  issued:
+    - year: 2003
+  page: 1397-1405
+  publisher: '[Oxford University Press, American Historical Association]'
+  source: JSTOR
+  title: Of Rogues and Geldings
+  type: article-journal
+  URL: https://www.jstor.org/stable/10.1086/529973
+  volume: '108'
+
+- id: fieldsSlaveryRaceIdeology1990
+  author:
+    - family: Fields
+      given: Barbara Jeanne
+  citation-key: fieldsSlaveryRaceIdeology1990
+  container-title: New Left Review
+  issue: '181'
+  issued:
+    - literal: May/June 1990
+  language: en
+  page: '95'
+  source: Zotero
+  title: Slavery, Race and Ideology in the United States of America
+  type: article-journal
+
+- id: fieldsWhitenessRacismIdentity2001
+  abstract: >-
+    As an organizing concept, whiteness rests on insecure theoretical
+    ground—specifically, the notions of identity and agency. It replaces racism
+    with race and equates race with racial identity, which it accepts
+    uncritically both as an empirical datum and as a tool of analysis. It
+    thereby establishes a false parallel between the objects and the authors of
+    racism and between Afro-Americans and other Americans of non-European
+    ancestry. Whiteness is the ideological counterpart of race relations, both
+    of them ways of skirting around the relations of political, social, and
+    economic power that have determined the place of Afro-Americans in American
+    society.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 7
+  author:
+    - family: Fields
+      given: Barbara J.
+  citation-key: fieldsWhitenessRacismIdentity2001
+  container-title: International Labor and Working-Class History
+  ISSN: 0147-5479
+  issue: '60'
+  issued:
+    - year: 2001
+  page: 48-56
+  publisher: Cambridge University Press
+  source: JSTOR
+  title: Whiteness, Racism, and Identity
+  type: article-journal
+  URL: https://www.jstor.org/stable/27672735
 
 - id: figartContestingGigEconomy2017
   abstract: >-
@@ -9314,6 +9900,20 @@ references:
   type: article-journal
   URL: http://www5.austlii.edu.au/au/journals/JlLawInfoSci/2011/6.html
   volume: '21'
+
+- id: FirebirdStructuresLLC2017
+  authority: D.N.M.
+  citation-key: FirebirdStructuresLLC2017
+  issued:
+    - year: 2017
+      month: 5
+      day: 5
+  jurisdiction: us:c10:nm.d
+  number: CIV 17-0397 JB/JLF
+  title: >-
+    Firebird Structures LLC v. United Brotherhood of Carpenters & Joiners of
+    America
+  type: legal_case
 
 - id: fischerRightOrganizeUnconstitutional2004
   accessed:
@@ -10026,6 +10626,17 @@ references:
   title: Law and the Shaping of the American Labor Movement
   type: book
 
+- id: FordMotorCo2021
+  citation-key: FordMotorCo2021
+  container-title: S. Ct.
+  issued:
+    - year: 2021
+  jurisdiction: us
+  page: '1017'
+  title: Ford Motor Co. v. Mont Eighth Judicial Dist. Court
+  type: legal_case
+  volume: '141'
+
 - id: formanLetGetWork2017
   accessed:
     - year: 2019
@@ -10356,6 +10967,18 @@ references:
   title: What Workers Want
   type: book
 
+- id: FreidrichDavis2014
+  authority: 3rd Cir.
+  citation-key: FreidrichDavis2014
+  container-title: F. 3d
+  issued:
+    - year: 2014
+  jurisdiction: us
+  page: '374'
+  title: Freidrich v. Davis
+  type: legal_case
+  volume: '767'
+
 - id: freyTechnologyTrapCapital2019
   abstract: >-
     How the history of technological revolutions can help us better understand
@@ -10407,14 +11030,10 @@ references:
   author:
     - family: Friedman
       given: Lawrence M.
-  call-number: '0000'
   citation-key: friedmanHistoryAmericanLaw1986
   edition: 2nd
-  ISBN: 0-671-52807-6
   issued:
     - year: 1986
-  note: '00000'
-  number-of-pages: '784'
   publisher: Touchstone
   title: A History of American Law, Revised Edition
   type: book
@@ -10502,6 +11121,18 @@ references:
     https://www.cambridge.org/core/product/identifier/S0147547900001101/type/journal_article
   volume: '40'
 
+- id: FriegesDrywallInc2009
+  authority: Court of Appeals
+  citation-key: FriegesDrywallInc2009
+  issued:
+    - year: 2009
+      month: 12
+      day: 29
+  jurisdiction: us:mn
+  number: A-09-427
+  title: Frieges Drywall, Inc. v. North Central States Regional Council of Capenters
+  type: legal_case
+
 - id: frohmanConvictabilityDiscordantLocales2014
   abstract: >-
     What categories do prosecutors use to assess sexual assault cases? What are
@@ -10541,6 +11172,22 @@ references:
   title-short: Convictability and Discordant Locales
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.9
+
+- id: fryeBalladHarryJames2018
+  author:
+    - family: Frye
+      given: Brian L.
+  citation-key: fryeBalladHarryJames2018
+  container-title: Akron Law Review
+  container-title-short: Akron L. Rev.
+  issue: '2'
+  issued:
+    - year: 2018
+  language: eng
+  page: '530'
+  title: The Ballad of Harry James Tompkins
+  type: article-journal
+  volume: '52'
 
 - id: frymerActingWhenElected2003
   abstract: >-
@@ -10710,37 +11357,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/10.5749/j.ctttt0p8.8
   volume: '4'
-
-- id: gandrudReproducibleResearchStudio2016
-  abstract: >-
-    All the Tools for Gathering and Analyzing Data and Presenting Results
-    Reproducible Research with R and RStudio, Second Edition brings together the
-    skills and
-  accessed:
-    - year: 2019
-      month: 1
-      day: 29
-  author:
-    - family: Gandrud
-      given: Christopher
-  citation-key: gandrudReproducibleResearchStudio2016
-  DOI: 10.1201/b18546
-  ISBN: 978-1-4987-1538-6
-  issued:
-    - year: 2016
-      month: 7
-      day: 6
-  language: en
-  note: >-
-    All the Tools for Gathering and Analyzing Data and Presenting Results
-
-    Reproducible Research with R and RStudio, Second Edition brings together the
-    skills and
-  publisher: Chapman and Hall/CRC
-  source: www.taylorfrancis.com
-  title: Reproducible Research with R and R Studio
-  type: book
-  URL: https://www.taylorfrancis.com/books/9781498715386
 
 - id: ganeDebtUsuryOngoing2019
   abstract: >-
@@ -11242,28 +11858,17 @@ references:
   title-short: Defying Dixie
   type: book
 
-- id: gingerBendingCrossBiography2007
-  abstract: "Let the people take heart and hope everywhere, for the cross is bending, the midnight is passing, and joy cometh with the morning.\_—Eugene Debs in 1918Orator, organizer, self-taught scholar, presidential candidate, and prisoner, Eugene Debs’ lifelong commitment to the fight for a better world is chronicled in this unparalleled biography by historian Ray Ginger. This moving story presents the definitive account of the life and legacy of the most eloquent spokesperson and leader of the U.S. labor and socialist movements.With a new introduction by Mike Davis."
-  author:
-    - family: Ginger
-      given: Ray
-    - family: Davis
-      given: Mike
-  citation-key: gingerBendingCrossBiography2007
-  event-place: Chicago, Ill
-  ISBN: 978-1-931859-40-0
+- id: GinwrightExeterFinance2016
+  authority: D. Md.
+  citation-key: GinwrightExeterFinance2016
   issued:
-    - year: 2007
-      month: 1
-      day: 1
-  language: English
-  number-of-pages: '540'
-  publisher: Haymarket Books
-  publisher-place: Chicago, Ill
-  source: Amazon
-  title: 'The Bending Cross: A Biography of Eugene Victor Debs'
-  title-short: The Bending Cross
-  type: book
+    - year: 2016
+      month: 10
+      day: 6
+  jurisdiction: us:c4:md.d
+  number: Civil Action No. TDC-16-0565
+  title: Ginwright v. Exeter Finance Corp.
+  type: legal_case
 
 - id: girshonWrongfulDischargeReform1992
   accessed:
@@ -11482,35 +12087,6 @@ references:
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-682X.2010.00337.x
   volume: '80'
 
-- id: goldIntroductionLaborLaw2014
-  abstract: >-
-    An Introduction to Labor Law is a useful primer that explains the basic
-    principles of the federal law regulating the relationship of employers to
-    labor unions. In this updated third edition, which features a new
-    introduction, Michael Evan Gold discusses the law that applies to union
-    organizing and representation elections, the duty to bargain in good faith,
-    economic weapons such as strikes and lockouts, and the enforcement of
-    collective bargaining agreements. Gold describes the structure and functions
-    of the National Labor Relations Board and of the federal courts in regard to
-    labor cases and also presents a number of legal issues presently in
-    contention between labor and management.
-  author:
-    - family: Gold
-      given: Michael Evan
-  citation-key: goldIntroductionLaborLaw2014
-  edition: Third edition
-  event-place: Ithaca, New York
-  ISBN: 978-0-8014-7922-9
-  issued:
-    - year: 2014
-  language: English
-  number-of-pages: '120'
-  publisher: ILR Press
-  publisher-place: Ithaca, New York
-  source: Amazon
-  title: An Introduction to Labor Law
-  type: book
-
 - id: goldsteinTwentyYearsJewish2016
   author:
     - family: Goldstein
@@ -11572,41 +12148,6 @@ references:
   title: The Lost Promise of Civil Rights
   type: book
 
-- id: gondaUnjustDeeds2015
-  abstract: >-
-    In 1945, six African American families from St. Louis, Detroit, and
-    Washington, D.C., began a desperate fight to keep their homes. Each of them
-    had purchased a property that prohibited the occupancy of African Americans
-    and other minority groups through the use of legal instruments called racial
-    restrictive covenants--one of the most pervasive tools of residential
-    segregation in the aftermath of World War II. Over the next three years,
-    local activists and lawyers at the NAACP fought through the nation's courts
-    to end the enforcement of these discriminatory contracts.<em>Unjust
-    Deeds</em>explores the origins and complex legacies of their dramatic
-    campaign, culminating in a landmark Supreme Court victory in<em>Shelley v.
-    Kraemer</em>(1948). Restoring this story to its proper place in the history
-    of the black freedom struggle, Jeffrey D. Gonda's groundbreaking study
-    provides a critical vantage point to the simultaneously personal, local, and
-    national dimensions of legal activism in the twentieth century and offers a
-    new understanding of the evolving legal fight against Jim Crow in
-    neighborhoods and courtrooms across America.
-  accessed:
-    - year: 2022
-      month: 1
-      day: 1
-  archive: JSTOR
-  author:
-    - family: Gonda
-      given: Jeffrey D.
-  citation-key: gondaUnjustDeeds2015
-  ISBN: 978-1-4696-2545-4
-  issued:
-    - year: 2015
-  publisher: University of North Carolina Press
-  title: Unjust Deeds
-  type: book
-  URL: http://www.jstor.org.ezproxy.elon.edu/stable/10.5149/9781469625461_gonda
-
 - id: gonosContestEmployerStatus1997
   accessed:
     - year: 2016
@@ -11632,6 +12173,46 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/3054095
   volume: '31'
+
+- id: gonzalez-lopezSocietyMarketsCommodification2021
+  abstract: >-
+    Abstract From anti-debt movements in Mexico, Spain, Poland, Croatia, and
+    Chile to the Occupy movements in the United States, Israel and Canada,
+    organizations repudiating both debt and the centrality of financial markets
+    have proliferated worldwide. In this article, I draw on Polanyi’s work in
+    order to frame the financialization of society and different forms of debt
+    repudiation as a double movement, characterized as a second wave of the
+    commodification of money and the attempts by society to protect itself from
+    the advancement of finance. Relying on a secondary literature and my own
+    ethnographic research on debtors’ movements, I explore the commonalities and
+    differences between diverse forms of repudiating debt through collective
+    action at both national and international level.
+  accessed:
+    - year: 2022
+      month: 1
+      day: 16
+  author:
+    - family: González-López
+      given: Felipe
+  citation-key: gonzalez-lopezSocietyMarketsCommodification2021
+  container-title: Sociologia & Antropologia
+  container-title-short: Sociol. Antropol.
+  DOI: 10.1590/2238-38752021v1114
+  ISSN: 2236-7527, 2238-3875
+  issued:
+    - year: 2021
+      month: 7
+      day: 2
+  language: en
+  page: 97-122
+  publisher: Universidade Federal do Rio de Janeiro
+  source: SciELO
+  title: >-
+    Society Against Markets: The Commodification of Money and the Repudiation of
+    Debt
+  type: article-journal
+  URL: http://www.scielo.br/j/sant/a/S93F8FBMHL7j3wSQ6YBpnVs/abstract/?lang=en
+  volume: '11'
 
 - id: gordonDigitalLawyerEvolving2012
   abstract: >-
@@ -11682,6 +12263,32 @@ references:
   title-short: Converging Alternatives
   type: book
 
+- id: goughTaleTwoForums2020
+  accessed:
+    - year: 2022
+      month: 2
+      day: 26
+  author:
+    - family: Gough
+      given: Mark
+  citation-key: goughTaleTwoForums2020
+  container-title: Industrial & labor relations review
+  DOI: 10.1177/0019793920915876
+  ISSN: 0019-7939
+  issue: '4'
+  issued:
+    - year: 2020
+      month: 4
+      day: 24
+  note: 'Saved from BrowZine: https://thirdiron.com/download'
+  page: 875 - 897
+  title: >-
+    A Tale of Two Forums: Employment Discrimination Outcomes in Arbitration and
+    Litigation
+  type: article-journal
+  URL: https://browzine.com/articles/385797747
+  volume: '74'
+
 - id: gouldivLaboredRelationsLaw2001
   abstract: >-
     A personally revealing, politically astute memoir by a former Chairman of
@@ -11705,21 +12312,16 @@ references:
   title-short: Labored Relations
   type: book
 
-- id: graeberDawnEverythingNew2021
-  author:
-    - family: Graeber
-      given: David
-    - family: Wengrow
-      given: David
-  citation-key: graeberDawnEverythingNew2021
+- id: GrableSonsMetal2005
+  citation-key: GrableSonsMetal2005
+  container-title: US
   issued:
-    - year: 2021
-      month: 11
-      day: 9
-  source: Amazon
-  title: 'The Dawn of Everything: A New History of Humanity'
-  title-short: The Dawn of Everything
-  type: book
+    - year: 2005
+  jurisdiction: us
+  page: '308'
+  title: Grable & Sons Metal Products, Inc. v. Darue Engineering & Mfg.
+  type: legal_case
+  volume: '545'
 
 - id: graeberDebtUpdatedExpanded2014
   abstract: "Now in paperback, the updated and expanded edition : David Graeber’s “fresh . . . fascinating . . . thought-provoking . . . and exceedingly timely” (Financial Times) history of debt \_ Here anthropologist David Graeber presents a stunning reversal of conventional wisdom: he shows that before there was money, there was debt. For more than 5,000 years, since the beginnings of the first agrarian empires, humans have used elaborate credit systems to buy and sell goods—that is, long before the invention of coins or cash. It is in this era, Graeber argues, that we also first encounter a society divided into debtors and creditors.Graeber shows that arguments about debt and debt forgiveness have been at the center of political debates from Italy to China, as well as sparking innumerable insurrections. He also brilliantly demonstrates that the language of the ancient works of law and religion (words like “guilt,” “sin,” and “redemption”) derive in large part from ancient debates about debt, and shape even our most basic ideas of right and wrong. We are still fighting these battles today without knowing it."
@@ -11742,6 +12344,31 @@ references:
   title: 'Debt - Updated and Expanded: The First 5,000 Years'
   title-short: Debt - Updated and Expanded
   type: book
+
+- id: GrantBurtonCovenantCare2002
+  accessed:
+    - year: 2022
+      month: 3
+      day: 26
+  citation-key: GrantBurtonCovenantCare2002
+  container-title: Cal.App.4th
+  issued:
+    - year: 2002
+      month: 7
+      day: 10
+  jurisdiction: us:ca
+  page: '1361'
+  submitted:
+    date-parts:
+      - - '2002'
+        - 7
+        - 10
+  title: Grant-Burton v. Covenant Care, Inc.
+  title-short: Grant-Burton
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:99%20Cal.App.4th%201361#autoLogin
+  volume: '99'
 
 - id: grattetReconstitutionLawLocal2014
   abstract: >-
@@ -12012,21 +12639,6 @@ references:
   type: book
 
 - id: greenspanLegalProcessPromise2019
-  abstract: >-
-    Malcolm Feeley, one of the founding giants of the law and society field, is
-    also one of its most exciting, diverse, and contemporary scholars. His works
-    have examined criminal courts, prison reform, the legal profession, legal
-    professionalism, and a variety of other important topics of enduring
-    theoretical interest with a keen eye for the practical implications. In this
-    volume, The Legal Process and the Promise of Justice, an eminent group of
-    contemporary law and society scholars offer fresh and original analyzes of
-    his work. They asses the legacy of Feeley's theoretical innovations, put his
-    findings to the test of time, and provide provocative historical and
-    international perspectives for his insights. This collection of original
-    essays not only draws attention to Professor Feeley's seminal writings but
-    also to the theories and ideas of others who, inspired by Feeley, have
-    explored how courts and the legal process really work to provide a promise
-    of justice.
   author:
     - family: Greenspan
       given: Rosann
@@ -12035,15 +12647,12 @@ references:
     - family: Simon
       given: Jonathan
   citation-key: greenspanLegalProcessPromise2019
-  ISBN: 978-1-108-41568-2
   issued:
     - year: 2019
       month: 4
       day: 30
   language: en
-  number-of-pages: '401'
   publisher: Cambridge University Press
-  source: Google Books
   title: >-
     The Legal Process and the Promise of Justice: Studies Inspired by the Work
     of Malcolm Feeley
@@ -12148,6 +12757,41 @@ references:
   title: Do the “Haves” Still Come Out Ahead?
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.6
+
+- id: gudemanEconomyRitualStudies2015
+  abstract: >-
+    According to accepted wisdom, rational practices and ritual action are
+    opposed. Rituals drain wealth from capital investment and draw on a mode of
+    thought different from practical ideas. The studies in this volume contest
+    this view. Comparative, historical, and contemporary, the six ethnographies
+    extend from Macedonia to Kyrgyzstan. Each one illuminates the economic and
+    ritual changes in an area as it emerged from socialism and (re-)entered
+    market society. Cutting against the idea that economy only means markets and
+    that market action exhausts the meaning of economy, the studies show that
+    much of what is critical for a people's economic life takes place outside
+    markets and hinges on ritual, understood as the negation of the everyday
+    world of economising.
+  accessed:
+    - year: 2022
+      month: 1
+      day: 16
+  author:
+    - family: Gudeman
+      given: Stephen
+    - family: Hann
+      given: Chris
+  citation-key: gudemanEconomyRitualStudies2015
+  event-place: New York, NY, UNITED STATES
+  ISBN: 978-1-78238-570-7
+  issued:
+    - year: 2015
+  publisher: Berghahn Books, Incorporated
+  publisher-place: New York, NY, UNITED STATES
+  source: ProQuest Ebook Central
+  title: 'Economy and Ritual: Studies of Postsocialist Transformations'
+  title-short: Economy and Ritual
+  type: book
+  URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=1707812
 
 - id: guerin100YearsLabor1979
   author:
@@ -12353,6 +12997,53 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.25
 
+- id: hanemanReFramingStudent2021
+  accessed:
+    - year: 2022
+      month: 2
+      day: 2
+  author:
+    - family: Haneman
+      given: Victoria J.
+  citation-key: hanemanReFramingStudent2021
+  container-title: Law and Contemporary Problems
+  DOI: 10.2139/ssrn.3696566
+  ISSN: 1556-5068
+  issued:
+    - year: 2021
+  language: en
+  page: '153'
+  source: Crossref
+  title: (Re)framing Student Loan Debt as a Commons
+  type: article-journal
+  URL: https://www.ssrn.com/abstract=3696566
+  volume: '84'
+
+- id: HanksCoan1999
+  authority: M.D.N.C.
+  citation-key: HanksCoan1999
+  issued:
+    - year: 1999
+      month: 8
+      day: 17
+  jurisdiction: us:c4:nc.md
+  number: Case No. 1:99CV00119
+  title: Hanks v. Coan
+  title-short: Hanks
+  type: legal_case
+
+- id: HannaPlumer1965
+  citation-key: HannaPlumer1965
+  container-title: U.S.
+  issued:
+    - year: 1965
+  jurisdiction: us
+  page: '460'
+  title: Hanna v. Plumer
+  title-short: Hanna
+  type: legal_case
+  volume: '380'
+
 - id: hannekenPrinciplesLimitingRecovery2017
   accessed:
     - year: 2019
@@ -12376,6 +13067,36 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/jmlr50&i=639
   volume: '50'
+
+- id: hannFinancializationRelationalApproaches2020
+  abstract: >-
+    Beginning with an original historical vision of financialization in human
+    history, this volume then continues with a rich set of contemporary
+    ethnographic case studies from Europe, Asia and Africa. Authors explore the
+    ways in which finance inserts itself into relationships of class and
+    kinship, how it adapts to non-Western religious traditions, and how it
+    reconfigures legal and ecological dimensions of social organization, and
+    urban social relations in general. Central themes include the indebtedness
+    of individuals and households, the impact of digital technologies, the
+    struggle for housing, financial education, and political contestation.
+  author:
+    - family: Hann
+      given: Chris
+    - family: Kalb
+      given: Don
+  citation-key: hannFinancializationRelationalApproaches2020
+  ISBN: 978-1-78920-752-1
+  issued:
+    - year: 2020
+      month: 8
+      day: 1
+  language: en
+  number-of-pages: '358'
+  publisher: Berghahn Books
+  source: Google Books
+  title: 'Financialization: Relational Approaches'
+  title-short: Financialization
+  type: book
 
 - id: hansBusinessTrialCivil2000
   abstract: >-
@@ -12827,6 +13548,60 @@ references:
   URL: http://www.jstor.org/stable/1555069
   volume: '37'
 
+- id: HelmsleySpearIncFishman2008
+  accessed:
+    - year: 2022
+      month: 3
+      day: 26
+  authority: court.appeals
+  citation-key: HelmsleySpearIncFishman2008
+  container-title: N.Y.3d
+  issued:
+    - year: 2008
+      month: 11
+      day: 24
+  jurisdiction: us:ny
+  page: '470'
+  submitted:
+    date-parts:
+      - - '2008'
+        - 11
+        - 24
+  title: Helmsley-Spear, Inc. v. Fishman
+  title-short: Fishman
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:11%20N.Y.3d%20470#autoLogin
+  volume: '11'
+
+- id: HennepinBroadcastingAssociates1974
+  accessed:
+    - year: 2022
+      month: 3
+      day: 26
+  authority: supreme.court
+  citation-key: HennepinBroadcastingAssociates1974
+  container-title: Minn.
+  issued:
+    - year: 1974
+      month: 10
+      day: 25
+  jurisdiction: us:mn
+  page: '508'
+  submitted:
+    date-parts:
+      - - '1974'
+        - 10
+        - 25
+  title: >-
+    Hennepin Broadcasting Associates, Inc. v. American Federation of Television
+    and Radio Artists
+  title-short: Hennepin Broadcasting Associates
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:301%20Minn.%20508#autoLogin
+  volume: '301'
+
 - id: herbertEverythingPassesEverything2017
   abstract: >-
     This article begins with a brief history of unionization and collective
@@ -12987,6 +13762,42 @@ references:
   URL: >-
     https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/how-employers-recruit-their-workers-into-politicsand-why-political-scientists-should-care/778AD469C15C4100DB0C29DB8C858C4B
   volume: '14'
+
+- id: HertzCorpFriend2010
+  citation-key: HertzCorpFriend2010
+  container-title: US
+  issued:
+    - year: 2010
+  jurisdiction: us
+  page: '77'
+  title: Hertz Corp. v. Friend
+  type: legal_case
+  volume: '559'
+
+- id: HillhavenOaklandNursing1996
+  accessed:
+    - year: 2022
+      month: 3
+      day: 26
+  citation-key: HillhavenOaklandNursing1996
+  container-title: Cal.App.4th
+  issued:
+    - year: 1996
+      month: 1
+      day: 2
+  jurisdiction: us:ca
+  page: '846'
+  submitted:
+    date-parts:
+      - - '1996'
+        - 1
+        - 2
+  title: Hillhaven Oakland Nursing etc. Center v. Health Care Workers Union
+  title-short: Health Care Workers Union
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:41%20Cal.App.4th%20846#autoLogin
+  volume: '41'
 
 - id: hillOccupyWallStreet2014
   accessed:
@@ -13267,6 +14078,17 @@ references:
   type: legal_case
   volume: '517'
 
+- id: HolmesGroupInc2002
+  citation-key: HolmesGroupInc2002
+  container-title: US
+  issued:
+    - year: 2002
+  jurisdiction: us
+  page: '826'
+  title: Holmes Group, Inc. v. Vornado Air Circulation Systems, Inc.
+  type: legal_case
+  volume: '535'
+
 - id: holsonMatchComUsed2019
   abstract: >-
     In a lawsuit, the government agency contended that the dating site tried to
@@ -13426,6 +14248,31 @@ references:
   title-short: Killing the Host
   type: book
 
+- id: hudsonWhenDebtsBecome2021
+  abstract: >-
+    For centuries, debt and indebtedness have had profoundly destabilizing
+    effects on human societies. In the ancient world, rulers and their subjects
+    had a solution: known as a debt jubilee, it involved a periodic,
+    unconditional wiping out of debt. We need such a jubilee today.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 7
+  author:
+    - family: Hudson
+      given: Michael
+  citation-key: hudsonWhenDebtsBecome2021
+  container-title: Jacobin
+  issued:
+    - year: 2021
+      month: 12
+      day: 23
+  language: en-US
+  title: When Debts Become Unpayable, They Should Be Forgiven
+  type: webpage
+  URL: >-
+    https://jacobinmag.com/2021/12/michael-hudson-interview-debt-forgiveness-cancellation-ancient-rome-christianity
+
 - id: HugoFastModern
   accessed:
     - year: 2017
@@ -13505,21 +14352,6 @@ references:
   URL: https://www.jstor.org/stable/23316141
   volume: '644'
 
-- id: idahobtcafl-cioAmicusCuraeBrief2016
-  author:
-    - family: Idaho BTC & AFL-CIO
-      given: IO
-  citation-key: idahobtcafl-cioAmicusCuraeBrief2016
-  issued:
-    - year: 2016
-      month: 6
-      day: 20
-  title: >-
-    Amicus Curae Brief of the Idaho Building Trades Council and the Idaho
-    AFL-CIO, in Support of Appellee and for Affirmance
-  title-short: Idaho BTC & AFL-CIO Amicus Brief
-  type: article
-
 - id: IdahoInterferenceAgricultural2014
   chapter-number: '2014'
   citation-key: IdahoInterferenceAgricultural2014
@@ -13570,6 +14402,17 @@ references:
   type: legal_case
   volume: '476'
 
+- id: InternationalShoeCo1945
+  citation-key: InternationalShoeCo1945
+  container-title: US
+  issued:
+    - year: 1945
+  jurisdiction: us
+  page: '310'
+  title: International Shoe Co. v. Washington
+  type: legal_case
+  volume: '326'
+
 - id: IntroductionInternationalFisheries
   accessed:
     - year: 2019
@@ -13588,7 +14431,7 @@ references:
     - year: 2004
   jurisdiction: us:ia
   section: 717A.3A
-  title: (Iowa) Agricultural Production Facility Fraud
+  title: (Iowa) Agricultural Production Facility Fraud (2004)
   title-short: Iowa Ag Facility Fraud
   type: legislation
 
@@ -13600,8 +14443,29 @@ references:
     - year: 2004
   jurisdiction: us:ia
   section: 717A.3B
-  title: (Iowa) Agricultural Production Facility Trespass
+  title: (Iowa) Agricultural Production Facility Trespass (2004)
   title-short: Iowa Ag. Facility Trespass
+  type: legislation
+
+- id: IowaAgriculturalProduction2019
+  accessed:
+    - year: 2022
+      month: 3
+      day: 26
+  citation-key: IowaAgriculturalProduction2019
+  container-title: Iowa Code
+  issued:
+    - year: 2019
+      month: 3
+      day: 14
+  jurisdiction: us
+  publication-date:
+    date-parts:
+      - - '2019'
+        - 3
+        - 14
+  section: 717A.3B
+  title: (Iowa) Agricultural Production Facility Trespass (2019)
   type: legislation
 
 - id: isaacHowCivilRights2002
@@ -13830,6 +14694,18 @@ references:
   title-short: Civil Society, Corporate Power, and Food Security
   type: article-journal
   volume: '5'
+
+- id: JanjuaNeufeld2019
+  authority: 9th Cir.
+  citation-key: JanjuaNeufeld2019
+  container-title: F. 3d
+  issued:
+    - year: 2019
+  jurisdiction: us:c9
+  page: '1061'
+  title: Janjua v. Neufeld
+  type: legal_case
+  volume: '933'
 
 - id: jarsulicProtectingWorkersWrongful1999
   accessed:
@@ -14354,6 +15230,18 @@ references:
   URL: http://www.jstor.org/stable/20430784
   volume: '86'
 
+- id: JohnsonSpencer2020
+  authority: 10th Cir.
+  citation-key: JohnsonSpencer2020
+  container-title: F. 3d
+  issued:
+    - year: 2020
+  jurisdiction: us:c10
+  page: '680'
+  title: Johnson v. Spencer
+  type: legal_case
+  volume: '950'
+
 - id: johnstonCulturalAnalysisSocial1995
   abstract: >-
     The pendulum of Kuhn’s normal science now seems to swing toward culture,
@@ -14434,6 +15322,18 @@ references:
   URL: https://www.jstor.org/stable/10.5749/j.ctttt0p8.14
   volume: '4'
 
+- id: JonesFordMotor2004
+  authority: 2d Cir.
+  citation-key: JonesFordMotor2004
+  container-title: F. 3d
+  issued:
+    - year: 2004
+  jurisdiction: us:c2
+  page: '205'
+  title: Jones v. Ford Motor Credit Co.
+  type: legal_case
+  volume: '358'
+
 - id: jonesMotherJonesSpeaks1983
   abstract: >-
     From the end of the Civil War until her death in 1930 at the age of 100,
@@ -14484,36 +15384,6 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/40862566
   volume: '12'
-
-- id: jrLitigationInequalityFederal1992
-  abstract: >-
-    Through the prism of litigation practice and tactics, Purcell explores the
-    dynamic relationship between legal and social change. He studies changing
-    litigation patterns in suits between individuals and national corporations
-    over tort claims for personal injuries and contract claims for insurance
-    benefits. Purcell refines the "progressive" claim that the federal courts
-    favored business enterprise during this time, identifying specific manners
-    and times in which the federal courts reached decisions both in favor of and
-    against national corporations. He also identifies 1892-1908 as a critical
-    period in the evolution of the twentieth century federal judicial system.
-  author:
-    - family: Jr
-      given: Edward A. Purcell
-  citation-key: jrLitigationInequalityFederal1992
-  ISBN: 978-0-19-536090-5
-  issued:
-    - year: 1992
-      month: 12
-      day: 31
-  language: en
-  number-of-pages: '459'
-  publisher: Oxford University Press
-  source: Google Books
-  title: >-
-    Litigation and Inequality: Federal Diversity Jurisdiction in Industrial
-    America, 1870-1958
-  title-short: Litigation and Inequality
-  type: book
 
 - id: julinOccupyStrikesBack2016
   abstract: >-
@@ -14844,6 +15714,31 @@ references:
   title: An Introduction to U.S. Collective Bargaining and Labor Relations
   type: book
 
+- id: KatzWestlawnCemetery1996
+  accessed:
+    - year: 2022
+      month: 3
+      day: 26
+  citation-key: KatzWestlawnCemetery1996
+  container-title: Ill.App.3d
+  issued:
+    - year: 1996
+      month: 11
+      day: 20
+  jurisdiction: us:il
+  page: '695'
+  submitted:
+    date-parts:
+      - - '1996'
+        - 11
+        - 20
+  title: Katz v. Westlawn Cemetery Ass'n, Inc.
+  title-short: Katz
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:285%20Ill.App.3d%20695#autoLogin
+  volume: '285'
+
 - id: kaufmanWhatUnionsTwentyyear2006
   abstract: >-
     One of the best-known and most-quoted books ever written on labor unions is
@@ -15030,6 +15925,17 @@ references:
   type: article-journal
   URL: https://doi.org/10.1080/0270319X.2015.1038143
   volume: '34'
+
+- id: KeetonHustlerMagazine1984
+  citation-key: KeetonHustlerMagazine1984
+  container-title: US
+  issued:
+    - year: 1984
+  jurisdiction: us
+  page: '770'
+  title: Keeton v. Hustler Magazine, Inc.
+  type: legal_case
+  volume: '465'
 
 - id: kellerPoliticalMedicineTrust2015
   author:
@@ -15283,6 +16189,32 @@ references:
   type: legal_case
   volume: '299'
 
+- id: KingWhitmer2021
+  authority: E.D. Mich.
+  citation-key: KingWhitmer2021
+  issued:
+    - year: 2021
+      month: 8
+      day: 25
+  jurisdiction: us:c6:mi.ed
+  number: Case No. 20-13134
+  title: King v. Whitmer
+  title-short: King
+  type: legal_case
+
+- id: KirkcaldyRichmondCounty2002
+  authority: M.D.N.C.
+  citation-key: KirkcaldyRichmondCounty2002
+  container-title: F.R.D.
+  issued:
+    - year: 2002
+  jurisdiction: us:c4:nc.md
+  page: '289'
+  title: Kirkcaldy v. Richmond County Bd. of Educ.
+  title-short: Kirkcaldy
+  type: legal_case
+  volume: '212'
+
 - id: kirklandThinkHippopotamusRights2014
   abstract: >-
     Everyone is talking about fat people. Contemporary American society is
@@ -15468,10 +16400,23 @@ references:
   page: 119-144
   publisher: Bristol University Press
   source: JSTOR
-  title: '‘Choose your moments’:: discipline and speculation in the indebted everyday'
+  title: '"Choose your moments": discipline and speculation in the indebted everyday'
   title-short: ‘Choose your moments’
   type: chapter
   URL: https://www.jstor.org/stable/j.ctvggx2fq.10
+
+- id: kirwanProblemsDebtExplorations2019
+  author:
+    - family: Kirwan
+      given: Samuel
+  citation-key: kirwanProblemsDebtExplorations2019
+  issued:
+    - year: 2019
+      month: 6
+      day: 25
+  title: 'Problems of Debt: Explorations of Life, Love and Finance'
+  title-short: Problems of Debt
+  type: book
 
 - id: kirwanThoseWhoShout2019
   abstract: >-
@@ -15570,6 +16515,55 @@ references:
   URL: http://www.jstor.org/stable/3311975
   volume: '130'
 
+- id: klarmanBrownBoardEducation2007
+  abstract: >-
+    A splendid account of the Supreme Court's rulings on race in the first half
+    of the twentieth century, From Jim Crow To Civil Rights earned rave reviews
+    and won the Bancroft Prize for History in 2005. Now, in this marvelously
+    abridged, paperback edition, Michael J. Klarman has compressed his acclaimed
+    study into tight focus around one major case--Brown v. Board of
+    Education--making the path-breaking arguments of his original work
+    accessible to a broader audience of general readers and students.  In this
+    revised and condensed edition, Klarman illuminates the impact of the
+    momentous Brown v. Board of Education ruling. He offers a richer, more
+    complex understanding of this pivotal decision, going behind the scenes to
+    examine the justices' deliberations and reconstruct why they found the case
+    so difficult to decide. He recaps his famous backlash thesis, arguing that
+    Brown was more important for mobilizing southern white opposition to change
+    than for encouraging civil rights protest, and that it was only the
+    resulting violence that transformed northern opinion and led to the landmark
+    legislation of the 1960s. Klarman also sheds light on broader questions such
+    as how judges decide cases; how much they are influenced by legal,
+    political, and personal considerations; the relationship between Supreme
+    Court decisions and social change; and finally, how much Court decisions
+    simply reflect societal values and how much they shape those values.  Brown
+    v. Board of Education was one of the most important decisions in the history
+    of the U.S. Supreme Court. Klarman's brilliant analysis of this landmark
+    case illuminates the course of American race relations as it highlights the
+    relationship between law and social reform.  Acclaim for From Jim Crow to
+    Civil Rights:  "A major achievement. It bestows upon its fortunate readers
+    prodigious research, nuanced judgment, and intellectual
+    independence."--Randall Kennedy, The New Republic  "Magisterial." --The New
+    York Review of Books  "A sweeping, erudite, and powerfully argued
+    book...unfailingly interesting." --Wilson Quarterly
+  author:
+    - family: Klarman
+      given: Michael J.
+  citation-key: klarmanBrownBoardEducation2007
+  ISBN: 978-0-19-530746-7
+  issued:
+    - year: 2007
+  language: en
+  number-of-pages: '297'
+  publisher: Oxford University Press
+  source: Google Books
+  title: >-
+    Brown v. Board of Education and the Civil Rights Movement: Abridged Edition
+    of From Jim Crow to Civil Rights : the Supreme Court and the Struggle for
+    Racial Equality
+  title-short: Brown V. Board of Education and the Civil Rights Movement
+  type: book
+
 - id: klarmanClosetAltarCourts2013
   abstract: >-
     If most young people support gay marriage, and if there are clear indicators
@@ -15650,6 +16644,8 @@ references:
   author:
     - family: Klarman
       given: Michael J.
+    - family: Klarman
+      given: Professor of Law Michael J.
   citation-key: klarmanUnfinishedBusinessRacial2007
   ISBN: 978-0-19-530428-2
   issued:
@@ -16063,19 +17059,6 @@ references:
   type: webpage
   URL: http://www.latex-project.org/
 
-- id: latourAramisLoveTechnology1996
-  author:
-    - family: Latour
-      given: Bruno
-  citation-key: latourAramisLoveTechnology1996
-  issued:
-    - year: 1996
-      month: 4
-      day: 1
-  source: Amazon
-  title: Aramis, or the Love of Technology
-  type: book
-
 - id: latourLockdownMetamorphosis2021
   author:
     - family: Latour
@@ -16091,33 +17074,6 @@ references:
   translator:
     - family: Rose
       given: Julie
-  type: book
-
-- id: latourMakingLawEthnography2009
-  author:
-    - family: Latour
-      given: Bruno
-  citation-key: latourMakingLawEthnography2009
-  issued:
-    - year: 2009
-      month: 12
-      day: 30
-  source: Amazon
-  title: 'The Making of Law: An Ethnography of the Conseil d''Etat'
-  title-short: The Making of Law
-  type: book
-
-- id: latourReassemblingSocialIntroduction2007
-  author:
-    - family: Latour
-      given: Bruno
-  citation-key: latourReassemblingSocialIntroduction2007
-  issued:
-    - year: 2007
-      month: 10
-      day: 25
-  title: 'Reassembling the Social: An Introduction to Actor-Network-Theory'
-  title-short: Reassembling the Social
   type: book
 
 - id: latourWhyHasCritique2004
@@ -16514,6 +17470,18 @@ references:
   URL: https://doi.org/10.1177/0896920513512695
   volume: '40'
 
+- id: LehmanRevolutionPortfolio1999
+  authority: 1st Cir.
+  citation-key: LehmanRevolutionPortfolio1999
+  container-title: F. 3d
+  issued:
+    - year: 1999
+  jurisdiction: us:c1
+  page: '389'
+  title: Lehman v. Revolution Portfolio LLC
+  type: legal_case
+  volume: '166'
+
 - id: lehoucqConceptualizingLegalMobilization2019
   accessed:
     - year: 2021
@@ -16643,6 +17611,30 @@ references:
   publisher: Lexington books Lexington
   title: 'Bureaucratic Insurgency: The Case of Police Unions'
   type: book
+
+- id: levineFreeJusticeHistory2021
+  accessed:
+    - year: 2022
+      month: 2
+      day: 26
+  author:
+    - family: Levine
+      given: Kate
+  citation-key: levineFreeJusticeHistory2021
+  container-title: Law & Society Review
+  DOI: 10.1111/lasr.12580
+  ISSN: 0023-9216
+  issue: '4'
+  issued:
+    - year: 2021
+      month: 12
+      day: 6
+  note: 'Saved from BrowZine: https://thirdiron.com/download'
+  page: 680 - 681
+  title: "Free justice: A history of the public defender in twentieth‐century America. By Sara\_Mayeux. Chapel Hill, NC: University of North Carolina Press, 2020."
+  type: article-journal
+  URL: https://browzine.com/articles/510675826
+  volume: '55'
 
 - id: levinWhatWrongPolice2020
   abstract: >-
@@ -16989,6 +17981,24 @@ references:
   type: patent
   URL: https://patents.google.com/patent/US9466048B2/en
 
+- id: linarelliFinancialInclusionAccess
+  author:
+    - family: Linarelli
+      given: John
+    - family: Schwarcz
+      given: Steven L
+    - family: Tirado
+      given: Ignacio
+  citation-key: linarelliFinancialInclusionAccess
+  container-title: LAW AND CONTEMPORARY PROBLEMS
+  issue: '1'
+  language: en
+  page: '5'
+  source: Zotero
+  title: Financial Inclusion, Access to Credit, and Sustainable Finance
+  type: article-journal
+  volume: '84'
+
 - id: lindertUnequalGainsAmerican2016
   abstract: >-
     Unequal Gains offers a radically new understanding of the economic evolution
@@ -17125,6 +18135,32 @@ references:
   title: Literature and Latte - Scrivener Writing Software
   type: webpage
   URL: https://www.literatureandlatte.com/scrivener.php
+
+- id: LivadasBradshaw1994
+  accessed:
+    - year: 2022
+      month: 3
+      day: 26
+  authority: supreme.court
+  citation-key: LivadasBradshaw1994
+  container-title: U.S.
+  issued:
+    - year: 1994
+      month: 6
+      day: 13
+  jurisdiction: us
+  page: '107'
+  submitted:
+    date-parts:
+      - - '1994'
+        - 6
+        - 13
+  title: Livadas v. Bradshaw
+  title-short: Livadas
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:512%20U.S.%20107#autoLogin
+  volume: '512'
 
 - id: LivedEconomiesDefault
   accessed:
@@ -17481,6 +18517,17 @@ references:
   title-short: LibGuides
   type: webpage
   URL: //libguides.libraries.wsu.edu/c.php?g=768677&p=5514204
+
+- id: LouisvilleNashvilleCo1908
+  citation-key: LouisvilleNashvilleCo1908
+  container-title: US
+  issued:
+    - year: 1908
+  jurisdiction: us
+  page: '149'
+  title: Louisville & Nashville R. Co. v. Mottley
+  type: legal_case
+  volume: '211'
 
 - id: lovellJusticeExcusedDeployment2014
   abstract: >-
@@ -18301,6 +19348,34 @@ references:
   URL: https://doi.org/10.1080/00236568508584794
   volume: '26'
 
+- id: marxCapitalCritiquePolitical1992
+  abstract: "The first volume of a political treatise that changed the worldOne of the most notorious works of modern times, as well as one of the most influential,\_Capital\_is an incisive critique of private property and the social relations it generates. Living in exile in England, where this work was largely written, Marx drew on a wide-ranging knowledge of its society to support his analysis and create fresh insights. Arguing that capitalism would cause an ever-increasing division in wealth and welfare, he predicted its abolition and replacement by a system with common ownership of the means of production.\_Capital\_rapidly acquired readership among the leaders of social democratic parties, particularly in Russia in Germany, and ultimately throughout the world, to become a work described by Marx friend and collaborator Friedrich Engels as “the Bible of the working class.”For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators."
+  author:
+    - family: Marx
+      given: Karl
+    - family: Mandel
+      given: Ernest
+  citation-key: marxCapitalCritiquePolitical1992
+  edition: Reprint edition
+  event-place: London ; New York, N.Y
+  ISBN: 978-0-14-044568-8
+  issued:
+    - year: 1992
+      month: 5
+      day: 5
+  language: English
+  number-of-pages: '1152'
+  publisher: Penguin Classics
+  publisher-place: London ; New York, N.Y
+  source: Amazon
+  title: 'Capital: A Critique of Political Economy, vol. 1'
+  title-short: Capital
+  translator:
+    - family: Fowkes
+      given: Ben
+  type: book
+  volume: '1'
+
 - id: marxCapitalCritiquePolitical1993
   abstract: >-
     The third volume of a political treatise that changed the worldUnfinished at
@@ -18339,12 +19414,13 @@ references:
   publisher: Penguin Classics
   publisher-place: New York, N.Y., U.S.A
   source: Amazon
-  title: 'Capital: A Critique of Political Economy, Vol. 3'
+  title: 'Capital: A Critique of Political Economy, vol. 3'
   title-short: Capital
   translator:
     - family: Fernbach
       given: David
   type: book
+  volume: '3'
 
 - id: marxCapitalCritiquePolitical1993a
   abstract: >-
@@ -18378,39 +19454,13 @@ references:
   publisher: Penguin Classics
   publisher-place: London
   source: Amazon
-  title: 'Capital : A Critique of Political Economy'
+  title: 'Capital: A Critique of Political Economy, vol. 2'
   title-short: Capital
   translator:
     - family: Fernbach
       given: David
   type: book
-
-- id: marxCapitalVolumeCritique1992
-  abstract: "The first volume of a political treatise that changed the worldOne of the most notorious works of modern times, as well as one of the most influential,\_Capital\_is an incisive critique of private property and the social relations it generates. Living in exile in England, where this work was largely written, Marx drew on a wide-ranging knowledge of its society to support his analysis and create fresh insights. Arguing that capitalism would cause an ever-increasing division in wealth and welfare, he predicted its abolition and replacement by a system with common ownership of the means of production.\_Capital\_rapidly acquired readership among the leaders of social democratic parties, particularly in Russia in Germany, and ultimately throughout the world, to become a work described by Marx friend and collaborator Friedrich Engels as “the Bible of the working class.”For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators."
-  author:
-    - family: Marx
-      given: Karl
-    - family: Mandel
-      given: Ernest
-  citation-key: marxCapitalVolumeCritique1992
-  edition: Reprint edition
-  event-place: London ; New York, N.Y
-  ISBN: 978-0-14-044568-8
-  issued:
-    - year: 1992
-      month: 5
-      day: 5
-  language: English
-  number-of-pages: '1152'
-  publisher: Penguin Classics
-  publisher-place: London ; New York, N.Y
-  source: Amazon
-  title: 'Capital: Volume 1: A Critique of Political Economy'
-  title-short: Capital
-  translator:
-    - family: Fowkes
-      given: Ben
-  type: book
+  volume: '2'
 
 - id: marxGrundrisseFoundationsCritique1993
   abstract: >-
@@ -18453,6 +19503,18 @@ references:
       given: Martin
   type: book
 
+- id: MasPerry1974
+  authority: 5th Cir.
+  citation-key: MasPerry1974
+  container-title: F. 2d
+  issued:
+    - year: 1974
+  jurisdiction: us
+  page: '1396'
+  title: Mas v. Perry
+  type: legal_case
+  volume: '489'
+
 - id: mathenyDisloyalWorkersUnAmerican2003
   accessed:
     - year: 2022
@@ -18477,6 +19539,72 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/nclr82&i=1719
   volume: '82'
+
+- id: MatsushitaElecIndus1986
+  citation-key: MatsushitaElecIndus1986
+  container-title: U.S.
+  issued:
+    - year: 1986
+  jurisdiction: us
+  page: '574'
+  title: Matsushita Elec. Indus. Co., Ltd. v. Zenith Radio Corp.
+  title-short: Zenith Radio Corp.
+  type: legal_case
+  volume: '475'
+
+- id: mattioliDarkFinanceIlliquidity2020
+  abstract: >-
+    Dark Finance offers one of the first ethnographic accounts of financial
+    expansion and its political impacts in Eastern Europe. Following workers,
+    managers, and investors in the Macedonian construction sector, Fabio
+    Mattioli shows how financialization can empower authoritarian regimes—not by
+    making money accessible to everyone, but by allowing a small group of
+    oligarchs to monopolize access to international credit and promote a cascade
+    of exploitative domestic debt relations.  The landscape of failed deals and
+    unrealizable dreams that is captured in this book portrays finance not as a
+    singular, technical process. Instead, Mattioli argues that finance is a set
+    of political and economic relations that entangles citizens, Eurocrats, and
+    workers in tense paradoxes. Mattioli traces the origins of illiquidity in
+    the reorganization of the European project and the postsocialist perversion
+    of socialist financial practices—a dangerous mix that hid the Macedonian
+    regime's weakness behind a façade of urban renewal and, for a decade, made
+    it seem omnipresent and invincible. Dark Finance chronicles how, one bad
+    deal at a time, Macedonia's authoritarian regime rode a wave of financial
+    expansion that deepened its reach into Macedonian society, only to discover
+    that its domination, like all speculative bubbles, was teetering on the
+    verge of collapse.
+  author:
+    - family: Mattioli
+      given: Fabio
+  citation-key: mattioliDarkFinanceIlliquidity2020
+  ISBN: 978-1-5036-1294-5
+  issued:
+    - year: 2020
+      month: 6
+      day: 30
+  language: en
+  number-of-pages: '297'
+  publisher: Stanford University Press
+  source: Google Books
+  title: 'Dark Finance: Illiquidity and Authoritarianism at the Margins of Europe'
+  title-short: Dark Finance
+  type: book
+
+- id: maurerFinance
+  abstract: Essay collection on finance, edited by Bill Maurer.
+  accessed:
+    - year: 2022
+      month: 1
+      day: 16
+  author:
+    - family: Maurer
+      given: Bill
+  citation-key: maurerFinance
+  container-title: Society for Cultural Anthropology
+  language: en
+  title: Finance
+  type: webpage
+  URL: https://culanth.org/fieldsights/series/finance
 
 - id: maussGeneralTheoryMagic1972
   author:
@@ -18801,6 +19929,34 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/3857657
   volume: '13'
+
+- id: mccammonFightingWordsProChoice2021
+  accessed:
+    - year: 2022
+      month: 2
+      day: 26
+  author:
+    - family: McCammon
+      given: Holly J.
+    - family: Beeson-Lynch
+      given: Cathryn
+  citation-key: mccammonFightingWordsProChoice2021
+  container-title: Law & Social Inquiry
+  DOI: 10.1017/lsi.2020.33
+  ISSN: 0897-6546
+  issue: '3'
+  issued:
+    - year: 2021
+      month: 1
+      day: 29
+  note: 'Saved from BrowZine: https://thirdiron.com/download'
+  page: 599 - 634
+  title: >-
+    Fighting Words: Pro-Choice Cause Lawyering, Legal-Framing Innovations, and
+    Hostile Political-Legal Contexts
+  type: article-journal
+  URL: https://browzine.com/articles/435831726
+  volume: '46'
 
 - id: mccammonLegalLimitsLabor1990
   abstract: >-
@@ -19605,7 +20761,7 @@ references:
   publisher: '[American Political Science Association, Cambridge University Press]'
   source: JSTOR
   title: >-
-    Signals and Spillover: Brown V. Board of Education and Other Social
+    Signals and Spillover: Brown v. Board of Education and Other Social
     Movements
   title-short: Signals and Spillover
   type: article-journal
@@ -19699,6 +20855,31 @@ references:
   title: Consumer Debt and Social Exclusion in Europe
   type: book
 
+- id: mikusAnthropologyFinancializationEastern2021
+  abstract: >-
+    "The Anthropology of Financialization in Eastern Europe" published on  by
+    Oxford University Press.
+  accessed:
+    - year: 2022
+      month: 1
+      day: 16
+  author:
+    - family: Mikuš
+      given: Marek
+  citation-key: mikusAnthropologyFinancializationEastern2021
+  container-title: Oxford Research Encyclopedia of Anthropology
+  DOI: 10.1093/acrefore/9780190854584.013.355
+  ISBN: '9780190854584'
+  issued:
+    - year: 2021
+      month: 3
+      day: 25
+  language: en
+  title: The Anthropology of Financialization in Eastern Europe
+  type: webpage
+  URL: >-
+    https://oxfordre.com/anthropology/view/10.1093/acrefore/9780190854584.001.0001/acrefore-9780190854584-e-355?utm_source=pocket_mylist
+
 - id: mikusContestingHouseholdDebt2019
   accessed:
     - year: 2021
@@ -19726,6 +20907,105 @@ references:
   type: article-journal
   URL: http://link.springer.com/10.1007/s10624-019-09551-8
   volume: '43'
+
+- id: mikusHouseholdsFinancializationEurope2021
+  abstract: >-
+    Households and Financialization in Europe develops a processual, relational
+    and critical transdisciplinary approach to household financialization in
+    Europe, utilizing a range of national and local case studies. It does so by
+    drawing on debates in Marxist, feminist and radical IPE, anthropology and
+    other fields. The book explores the household as simultaneously a
+    micro-level social institution specializing in social reproduction,
+    distribution and other activities; a building bloc of larger economic and
+    social structures; and an object of multiple systems of power/knowledge.
+    Putting this conceptualization to use in original research, the authors
+    identify geographically and historically situated ways in which
+    financialization transforms households and their relationships with the
+    wider economy and society. The book traces these transformations in case
+    studies of variegated financialization in Eastern and Southern European
+    (semi-) peripheries where households have faced particularly severe
+    financial issues since the global financial crisis, such as
+    over-indebtedness and asset devaluation. Key themes recurring throughout the
+    book include: the key role of housing in household financialization, the
+    co-constitutive relationship between financialization and social and spatial
+    inequalities, specific patterns in the relations of financial actors and
+    households in semi-peripheries, and the implications of semi-peripheral
+    forms of real and financial accumulation for household financialization.
+    With its transdisciplinary approach, this book will be of great interest to
+    students and scholars of finance, financialization, household economics,
+    international and global political economy, uneven development, economic
+    anthropology, and economic sociology.
+  author:
+    - family: Mikuš
+      given: Marek
+    - family: Rodik
+      given: Petra
+  citation-key: mikusHouseholdsFinancializationEurope2021
+  ISBN: 978-1-00-039397-2
+  issued:
+    - year: 2021
+      month: 6
+      day: 10
+  language: en
+  number-of-pages: '180'
+  publisher: Routledge
+  title: >-
+    Households and Financialization in Europe: Mapping Variegated Patterns in
+    Semi-Peripheries
+  title-short: Households and Financialization in Europe
+  type: book
+
+- id: mikusInformalNetworksInterstitial2015
+  accessed:
+    - year: 2022
+      month: 1
+      day: 16
+  author:
+    - family: Mikuš
+      given: Marek
+  citation-key: mikusInformalNetworksInterstitial2015
+  container-title: Sociologija
+  ISSN: 0038-0318
+  issue: '4'
+  issued:
+    - year: 2015
+  language: English
+  page: 571-592
+  publisher: Sociološko naučno društvo Srbije
+  source: www.ceeol.com
+  title: >-
+    Informal Networks and Interstitial Arenas of Power in the Making of Civil
+    Society Law in Serbia
+  type: article-journal
+  URL: https://www.ceeol.com/search/article-detail?id=341297
+  volume: '57'
+
+- id: mikusMakingDebtWork2020
+  abstract: >-
+    Debt collection is a crucial stage in the life-cycle of debt, but so far it
+    has been largely neglected in the anthropology of credit/debt. Based on
+    publicly available data and interactions with debtors, professionals and
+    activists, the chapter explores Croatia’s unique system of debt collection.
+    Facing demands of European integration and a surge of bad loans after a
+    financialized debt boom, the government authorized a state-owned agency,
+    public notaries and lawyers to collect debts in highly coercive and
+    profitable ways. Foreign-owned debt collection agencies also rapidly
+    expanded their presence. This resulted in public debates and political
+    struggles over debt collection.
+  author:
+    - family: Mikuš
+      given: Marek
+  citation-key: mikusMakingDebtWork2020
+  ISBN: 978-1-78920-751-4
+  issued:
+    - year: 2020
+      month: 8
+      day: 17
+  page: 241-265
+  source: ResearchGate
+  title: 'Making Debt Work: Devising and Debating Debt Collection in Croatia'
+  title-short: Making Debt Work
+  type: chapter
 
 - id: milanovicCapitalismAloneFuture2019
   abstract: >-
@@ -19965,6 +21245,17 @@ references:
   type: book
   URL: https://uncpress.org/book/9780807846254/what-do-we-need-a-union-for/
 
+- id: MineWorkersGibbs1966
+  citation-key: MineWorkersGibbs1966
+  container-title: US
+  issued:
+    - year: 1966
+  jurisdiction: us
+  page: '715'
+  title: Mine Workers v. Gibbs
+  type: legal_case
+  volume: '383'
+
 - id: MissouriRecordingsFarm2012
   chapter-number: '2012'
   citation-key: MissouriRecordingsFarm2012
@@ -19976,6 +21267,46 @@ references:
   title: (Missouri) Recordings of Farm Animals Alleged to be Abused or Neglected
   title-short: Missouri AgGag
   type: legislation
+
+- id: MitchellSherman1994
+  accessed:
+    - year: 2022
+      month: 3
+      day: 26
+  authority: court.appeals
+  citation-key: MitchellSherman1994
+  container-title: Wis.2d
+  issued:
+    - year: 1994
+      month: 9
+      day: 7
+  jurisdiction: us:wi
+  page: '388'
+  submitted:
+    date-parts:
+      - - '1994'
+        - 9
+        - 7
+  title: Mitchell v. Sherman
+  title-short: Mitchell
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:187%20Wis.2d%20388#autoLogin
+  volume: '187'
+
+- id: MobilityLLC2021
+  authority: NLRB
+  citation-key: MobilityLLC2021
+  container-title: N.L.R.B.
+  document-number: '121'
+  issued:
+    - year: 2021
+      month: 5
+      day: 3
+  jurisdiction: us
+  title: AT&T Mobility, LLC
+  type: legal_case
+  volume: '370'
 
 - id: mohanStateArtWorkflow1996
   author:
@@ -20358,6 +21689,18 @@ references:
   URL: https://browzine.com/articles/282181181
   volume: '46'
 
+- id: MosleyGeneralMotors1974
+  authority: 8th Cir.
+  citation-key: MosleyGeneralMotors1974
+  container-title: F. 2d
+  issued:
+    - year: 1974
+  jurisdiction: us:c8
+  page: '1330'
+  title: Mosley v. General Motors Corporation
+  type: legal_case
+  volume: '497'
+
 - id: mossChallinorRaymondRadical1991
   author:
     - family: Moss
@@ -20693,6 +22036,18 @@ references:
   title-short: Salting
   type: article
 
+- id: NCCivilRemedies2015
+  citation-key: NCCivilRemedies2015
+  container-title: N.C.G.S.
+  issued:
+    - year: 2015
+  jurisdiction: us:nc
+  language: en-US
+  section: § 99A-2
+  title: (NC) Civil Remedies for Interference with Property
+  title-short: NC Property Protection Act
+  type: legislation
+
 - id: nejaimeCauseLawyersState2012
   accessed:
     - year: 2022
@@ -20918,6 +22273,20 @@ references:
   type: legal_case
   volume: '335'
 
+- id: NLRBNashFinchCo1971
+  authority: Supreme Court
+  citation-key: NLRBNashFinchCo1971
+  container-title: US
+  issued:
+    - year: 1971
+      month: 12
+      day: 8
+  jurisdiction: us
+  page: '138'
+  title: NLRB v. Nash-Finch Co.
+  type: legal_case
+  volume: '404'
+
 - id: NLRBTownCountry1995
   authority: supreme.court
   citation-key: NLRBTownCountry1995
@@ -20965,6 +22334,19 @@ references:
   type: webpage
   URL: >-
     /resource/document/comparative-analysis-us-federal-fishery-management-fao-ecolabelling-guidelines
+
+- id: NoletteCityBoulder2020
+  authority: 9th Cir.
+  citation-key: NoletteCityBoulder2020
+  container-title: Fed.Appx.
+  issued:
+    - year: 2020
+  jurisdiction: us:c9
+  page: '587'
+  title: Nolette v. City of Boulder
+  title-short: Nolette
+  type: legal_case
+  volume: '804'
 
 - id: NorrisLaGuardiaAct1932
   accessed:
@@ -21298,6 +22680,32 @@ references:
   title-short: The Logic of Collective Action
   type: book
 
+- id: olzakDoesProtestPolice2021
+  accessed:
+    - year: 2022
+      month: 2
+      day: 26
+  author:
+    - family: Olzak
+      given: Susan
+  citation-key: olzakDoesProtestPolice2021
+  container-title: American Sociological Review
+  DOI: 10.1177/00031224211056966
+  ISSN: 0003-1224
+  issue: '6'
+  issued:
+    - year: 2021
+      month: 11
+      day: 29
+  note: 'Saved from BrowZine: https://thirdiron.com/download'
+  page: 1066 - 1099
+  title: >-
+    Does Protest Against Police Violence Matter? Evidence from U.S. Cities, 1990
+    through 2019
+  type: article-journal
+  URL: https://browzine.com/articles/506616684
+  volume: '86'
+
 - id: ondersmaBorrowingEqualityDispossession2020
   abstract: >-
     Introduction Professor Atkinson’s article is an essential piece for this
@@ -21392,6 +22800,17 @@ references:
   title-short: Belated Feudalism
   type: book
 
+- id: OsbornBankUnited1824
+  citation-key: OsbornBankUnited1824
+  container-title: US
+  issued:
+    - year: 1824
+  jurisdiction: us
+  page: '738'
+  title: Osborn v. Bank of United States
+  type: legal_case
+  volume: '22'
+
 - id: osborneLegalResearchPlan2016
   abstract: >-
     A new associate exits the office of Senior Partner with a research
@@ -21468,6 +22887,18 @@ references:
   URL: https://www.jstor.org/stable/24718429
   volume: '22'
 
+- id: PaceTimmermannRanch2015
+  authority: 7th Cir.
+  citation-key: PaceTimmermannRanch2015
+  container-title: F. 3d
+  issued:
+    - year: 2015
+  jurisdiction: us:c7
+  page: '748'
+  title: Pace v. Timmermann's Ranch and Saddle Shop Inc.
+  type: legal_case
+  volume: '795'
+
 - id: paikLawyersRightNetworks2007
   author:
     - family: Paik
@@ -21486,19 +22917,6 @@ references:
   type: article-journal
   volume: '32'
 
-- id: PaintingCo2000
-  authority: NLRB
-  citation-key: PaintingCo2000
-  container-title: N.L.R.B.
-  issued:
-    - year: 2000
-  jurisdiction: us
-  page: '1000'
-  references: enfd. 298 F.3d 492 (6th Cir. 2002)
-  title: Painting Co.
-  type: legal_case
-  volume: '330'
-
 - id: PaintingPrintIncorporating
   accessed:
     - year: 2019
@@ -21510,6 +22928,31 @@ references:
     into the Text of Legal Writing Documents
   type: webpage
   URL: https://www.alwd.org/lcr-archives/fall-2004-volume-2/240-painting-with-print
+
+- id: PalacioCitySpringfield2014
+  authority: D. Mass.
+  citation-key: PalacioCitySpringfield2014
+  container-title: F.Supp.3d
+  issued:
+    - year: 2014
+  jurisdiction: us:c1:ma.d
+  page: '163'
+  title: Palacio v. City of Springfield
+  title-short: Palacio
+  type: legal_case
+  volume: '25'
+
+- id: PalinNewYork2019
+  authority: 2d Cir.
+  citation-key: PalinNewYork2019
+  container-title: F. 3d
+  issued:
+    - year: 2019
+  jurisdiction: us:c2
+  page: '804'
+  title: Palin v. New York Times Co.
+  type: legal_case
+  volume: '940'
 
 - id: Pandoc
   accessed:
@@ -21598,6 +23041,17 @@ references:
     Civil Rights from the 1930s to the 1980s
   title-short: Department Stores and the Black Freedom Movement
   type: book
+
+- id: ParklaneHosieryCo1979
+  citation-key: ParklaneHosieryCo1979
+  container-title: US
+  issued:
+    - year: 1979
+  jurisdiction: us
+  page: '322'
+  title: Parklane Hosiery Co. v. Shore
+  type: legal_case
+  volume: '439'
 
 - id: pascual-fernandezLocalInstitutions2005
   abstract: >-
@@ -21754,8 +23208,19 @@ references:
     https://read.dukeupress.edu/labor/article/16/2/77/138619/Between-the-Market-and-the-StateThe-Problem-of
   volume: '16'
 
+- id: PennoyerNeff1878
+  citation-key: PennoyerNeff1878
+  container-title: US
+  issued:
+    - year: 1878
+  jurisdiction: us
+  page: '714'
+  title: Pennoyer v. Neff
+  type: legal_case
+  volume: '95'
+
 - id: PeopleEthicalTreatment2017
-  authority: district.court
+  authority: M.D.N.C.
   citation-key: PeopleEthicalTreatment2017
   container-title: F. Supp. 3d
   issued:
@@ -21769,7 +23234,7 @@ references:
   volume: '259'
 
 - id: PeopleEthicalTreatment2018
-  authority: Court of Appeals
+  authority: 4th Circuit
   citation-key: PeopleEthicalTreatment2018
   container-title: Fed. Appx.
   issued:
@@ -21786,7 +23251,7 @@ references:
   volume: '737'
 
 - id: PeopleEthicalTreatment2020
-  authority: district.court
+  authority: M.D.N.C.
   citation-key: PeopleEthicalTreatment2020
   container-title: F.Supp.3d
   issued:
@@ -21797,6 +23262,42 @@ references:
   title-short: Stein
   type: legal_case
   volume: '466'
+
+- id: perdueSinScandalSubstantive1987
+  author:
+    - family: Perdue
+      given: Wendy Collins
+  citation-key: perdueSinScandalSubstantive1987
+  container-title: Washington Law Review
+  container-title-short: Wash. L. Rev.
+  issue: '3'
+  issued:
+    - year: 1987
+  language: eng
+  page: '479'
+  title: >-
+    Sin, Scandal, and Substantive Due Process: Personal Jurisdiction and
+    Pennoyer Reconsidered
+  title-short: Sin, Scandal, and Substantive Due Process
+  type: article-journal
+  volume: '62'
+
+- id: perdueSinScandalSubstantive1991
+  author:
+    - family: Perdue
+      given: Wendy Collins
+  citation-key: perdueSinScandalSubstantive1991
+  container-title: Litigation
+  container-title-short: Litig.
+  issue: '2'
+  issued:
+    - year: 1991
+  language: eng
+  page: '41'
+  source: HeinOnline
+  title: Sin, Scandal, and Substantive Due Process Legal Lore
+  type: article-journal
+  volume: '18'
 
 - id: perrittStateWrongfulDismissal1992
   abstract: >-
@@ -22868,41 +24369,33 @@ references:
   type: book
 
 - id: purcellBrandeisProgressiveConstitution2000
-  abstract: >-
-    During the twentieth century, and particularly between the 1930s and 1950s,
-    ideas about the nature of constitutional government, the legitimacy of
-    judicial lawmaking, and the proper role of the federal courts evolved and
-    shifted. This book focuses on Supreme Court justice Louis D. Brandeis and
-    his opinion in the 1938 landmark case Erie Railroad Co. v. Tompkins, which
-    resulted in a significant relocation of power from federal to state courts.
-    Distinguished legal historian Edward A. Purcell, Jr., shows how the Erie
-    case provides a window on the legal, political, and ideological battles over
-    the federal courts in the New Deal era. Purcell also offers an in-depth
-    study of Brandeis's constitutional jurisprudence and evolving legal views.
-    Examining the social origins and intended significance of the Erie decision,
-    Purcell concludes that the case was a product of early twentieth-century
-    progressivism. The author explores Brandeis's personal values and political
-    purposes and argues that the justice was an exemplar of neither "judicial
-    restraint" nor "neutral principles," despite his later reputation. In an
-    analysis of the continual reconceptions of both Brandeis and Erie by new
-    generations of judges and scholars in the twentieth century, Purcell also
-    illuminates how individual perspectives and social pressures combined to
-    drive the law's evolution.
   author:
     - family: Purcell
       given: Edward A.
   citation-key: purcellBrandeisProgressiveConstitution2000
-  ISBN: 978-0-300-07804-6
   issued:
     - year: 2000
   language: en
-  number-of-pages: '446'
   publisher: Yale University Press
-  source: Google Books
   title: >-
     Brandeis and the Progressive Constitution: Erie, the Judicial Power, and the
     Politics of the Federal Courts in Twentieth-century America
-  title-short: Brandeis and the Progressive Constitution
+  type: book
+
+- id: purcellLitigationInequalityFederal1992
+  author:
+    - family: Purcell
+      given: Edward A.
+  citation-key: purcellLitigationInequalityFederal1992
+  issued:
+    - year: 1992
+      month: 12
+      day: 31
+  language: en
+  publisher: Oxford University Press
+  title: >-
+    Litigation and Inequality: Federal Diversity Jurisdiction in Industrial
+    America, 1870-1958
   type: book
 
 - id: purcellOriginalismFederalismAmerican2007
@@ -22951,6 +24444,21 @@ references:
   type: webpage
   URL: https://www.eeoc.gov/racecolor-discrimination
 
+- id: RacismRootsBranches
+  abstract: >-
+    Racism in the United States is not mainly about individual bias but about
+    divisions forged long ago by the super-exploitation and political
+    dispossession of racialized groups.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 7
+  citation-key: RacismRootsBranches
+  container-title: Dissent Magazine
+  title: Racism’s Roots and Branches
+  type: post-weblog
+  URL: https://www.dissentmagazine.org/article/racisms-roots-and-branches
+
 - id: radomskiVisionsRecreationalFishing2001
   author:
     - family: Radomski
@@ -22997,6 +24505,19 @@ references:
     https://repository.uchastings.edu/hastings_race_poverty_law_journal/vol17/iss1/3
   volume: '17'
 
+- id: RainbowManagementGroup1994
+  authority: D. Haw.
+  citation-key: RainbowManagementGroup1994
+  container-title: F.R.D.
+  issued:
+    - year: 1994
+  jurisdiction: us:c9:hi.d
+  page: '656'
+  title: Rainbow Management Group, Ltd. v. Atlantis Submarines Hawaii, L.P.
+  title-short: Rainbow Management Group, Ltd.
+  type: legal_case
+  volume: '158'
+
 - id: randsellReportScottsboroAla1931
   author:
     - family: Randsell
@@ -23034,6 +24555,28 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/allr6&i=327
   volume: '6'
+
+- id: reedMarxRaceNeoliberalism2013
+  accessed:
+    - year: 2022
+      month: 2
+      day: 7
+  author:
+    - family: Reed
+      given: Adolph
+  citation-key: reedMarxRaceNeoliberalism2013
+  container-title: New Labor Forum
+  ISSN: 1095-7960
+  issue: '1'
+  issued:
+    - year: 2013
+  page: 48-57
+  publisher: Sage Publications, Inc.
+  source: JSTOR
+  title: Marx, Race, and Neoliberalism
+  type: article-journal
+  URL: https://www.jstor.org/stable/24718405
+  volume: '22'
 
 - id: reganTonackMontanaBank1995
   accessed:
@@ -23148,6 +24691,32 @@ references:
   type: article-journal
   URL: https://academicworks.cuny.edu/clr/vol24/iss1/6
   volume: '24'
+
+- id: RetailPropertyTrust2014
+  accessed:
+    - year: 2022
+      month: 3
+      day: 26
+  authority: court.appeals
+  citation-key: RetailPropertyTrust2014
+  container-title: F.3d
+  issued:
+    - year: 2014
+      month: 9
+      day: 23
+  jurisdiction: us:c9
+  page: '938'
+  submitted:
+    date-parts:
+      - - '2014'
+        - 9
+        - 23
+  title: Retail Property Trust v. United Broth. of Carpenters and Joiners of America
+  title-short: Retail Property Trust
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:768%20F.3d%20938#autoLogin
+  volume: '768'
 
 - id: rhoadesAcademicCapitalismSecondary2015
   abstract: >-
@@ -23416,7 +24985,6 @@ references:
     - family: Rosenberg
       given: Gerald N.
   citation-key: rosenbergHollowHopeCan2008
-  edition: 2nd edition
   ISBN: 978-0-226-72668-7
   issued:
     - year: 2008
@@ -23425,6 +24993,7 @@ references:
   language: en
   number-of-pages: '541'
   publisher: University of Chicago Press
+  source: Google Books
   title: 'The Hollow Hope: Can Courts Bring About Social Change? Second Edition'
   title-short: The Hollow Hope
   type: book
@@ -23553,38 +25122,6 @@ references:
   type: book
   URL: https://www.orbooks.com/catalog/creditocracy/
 
-- id: rossDISSOLVINGMARRIAGEDEBT2013
-  abstract: >-
-    In the aftermath of the 2008 crash, the financial engineering of Wall Street
-    was subject to sweeping censure, and some regulatory bills—though destined
-    to be gutted or diluted—were pushed into the legislative hopper. Seldom was
-    there a better time for the advocates of alternatives to the debt-money
-    system to get a fair hearing. Yet the recession bit so deep, decimating the
-    workforce in so many countries, that policy efforts to jumpstart economic
-    recovery were almost all aimed at regenerating consumption growth along
-    lines that required the resumption of debt-financing. Restoring a positive
-    GDP track was the ubiquitous goal,
-  accessed:
-    - year: 2020
-      month: 4
-      day: 14
-  archive: JSTOR
-  author:
-    - family: ROSS
-      given: ANDREW
-  citation-key: rossDISSOLVINGMARRIAGEDEBT2013
-  collection-title: And the Case for Debt Refusal
-  container-title: Creditocracy
-  DOI: 10.2307/j.ctt207g7zn.9
-  issued:
-    - year: 2013
-  page: 216-251
-  publisher: OR Books
-  source: JSTOR
-  title: DISSOLVING THE MARRIAGE OF DEBT AND GROWTH
-  type: chapter
-  URL: https://www.jstor.org/stable/j.ctt207g7zn.9
-
 - id: rossDossierStrikeDebt2013
   accessed:
     - year: 2021
@@ -23611,134 +25148,6 @@ references:
   URL: >-
     https://read.dukeupress.edu/south-atlantic-quarterly/article/112/4/782-783/3688
   volume: '112'
-
-- id: rossEDUCATIONFREEPEOPLE2013
-  abstract: >-
-    Plainly alarmed by the growth and deepening of civic activism over the
-    course of the previous decade, the authors of the 1975 Trilateral Commission
-    report, *The Crisis of Democracy* , recommended that “the effective
-    operation of a democratic political system usually requires some measure of
-    apathy and noninvolvement on the part of some individuals and groups.” Given
-    the prominent role that student protest had lately played in plaguing the
-    political establishment, it was no surprise that the college-educated
-    population, which had surged in the wake of the GI Bill and the 1965 Higher
-    Education Act, merited special attention. Weighing the reasons
-  accessed:
-    - year: 2020
-      month: 4
-      day: 14
-  archive: JSTOR
-  author:
-    - family: ROSS
-      given: ANDREW
-  citation-key: rossEDUCATIONFREEPEOPLE2013
-  collection-title: And the Case for Debt Refusal
-  container-title: Creditocracy
-  DOI: 10.2307/j.ctt207g7zn.6
-  issued:
-    - year: 2013
-  page: 103-143
-  publisher: OR Books
-  source: JSTOR
-  title: EDUCATION FOR FREE PEOPLE
-  type: chapter
-  URL: https://www.jstor.org/stable/j.ctt207g7zn.6
-
-- id: rossHONORINGCLIMATEDEBTS2013
-  abstract: >-
-    At the height of the Congressional feeding frenzy over the “fiscal cliff,”
-    austerity hawks coined a new label—“debt deniers.” Minted to belittle
-    lawmakers who were opposed to social spending cuts prompted by the cynical
-    manipulation of federal debt, it was subsequently used as Tea Party
-    ammunition during the government shutdown over raising the debt ceiling in
-    the fall of 2013. The label was a savvy way for the deficit scolds to turn
-    the tables on Democrats who had gotten traction out of depicting the GOP as
-    hopelessly afflicted by “climate denial.” Whose heads were buried deeper in
-    the sand?
-  accessed:
-    - year: 2020
-      month: 4
-      day: 14
-  archive: JSTOR
-  author:
-    - family: ROSS
-      given: ANDREW
-  citation-key: rossHONORINGCLIMATEDEBTS2013
-  collection-title: And the Case for Debt Refusal
-  container-title: Creditocracy
-  DOI: 10.2307/j.ctt207g7zn.8
-  issued:
-    - year: 2013
-  page: 181-215
-  publisher: OR Books
-  source: JSTOR
-  title: HONORING CLIMATE DEBTS
-  type: chapter
-  URL: https://www.jstor.org/stable/j.ctt207g7zn.8
-
-- id: rossINTRODUCTION2013
-  abstract: >-
-    From April to June 2013, U.S. banks recorded their highest-ever profits for
-    a quarter—$42.2 billion. Even those who routinely cheer every report of
-    higher earnings had reason to pause. Maybe this was one piece of upside
-    financial news that should not be ballyhooed. For one thing, the lion’s
-    share of the profits went to just six banks (Bank of America, Citigroup,
-    Wells Fargo, JPMorgan Chase, Goldman Sachs, and Morgan Stanley), all of them
-    larger and more powerful than they were before their institutional greed
-    helped to decimate the global economy in 2008. Five years after the
-    financial collapse, their
-  accessed:
-    - year: 2020
-      month: 4
-      day: 14
-  archive: JSTOR
-  author:
-    - family: ROSS
-      given: ANDREW
-  citation-key: rossINTRODUCTION2013
-  collection-title: And the Case for Debt Refusal
-  container-title: Creditocracy
-  DOI: 10.2307/j.ctt207g7zn.3
-  issued:
-    - year: 2013
-  page: 9-29
-  publisher: OR Books
-  source: JSTOR
-  title: INTRODUCTION
-  type: chapter
-  URL: https://www.jstor.org/stable/j.ctt207g7zn.3
-
-- id: rossMORALECONOMYHOUSEHOLD2013
-  abstract: >-
-    Household debts have little in common with public debts, but that hasn’t
-    stopped policymakers, especially those looking to justify austerity
-    measures, from making comparisons between them. Barack Obama trotted out a
-    textbook example in his 2010 State of the Union speech when he chose to
-    announce the end of his administration’s stimulus efforts and the onset of
-    “fiscal discipline” in the form of austerity:  “Families across the country
-    are tightening their belts and making tough decisions. The federal
-    government should do the same. So tonight, I’m proposing specific steps to
-    pay for the trillion dollars that it took to rescue
-  accessed:
-    - year: 2020
-      month: 4
-      day: 14
-  archive: JSTOR
-  author:
-    - family: ROSS
-      given: ANDREW
-  citation-key: rossMORALECONOMYHOUSEHOLD2013
-  collection-title: And the Case for Debt Refusal
-  container-title: Creditocracy
-  DOI: 10.2307/j.ctt207g7zn.5
-  issued:
-    - year: 2013
-  page: 68-102
-  publisher: OR Books
-  source: JSTOR
-  title: MORAL ECONOMY OF THE HOUSEHOLD
-  type: chapter
-  URL: https://www.jstor.org/stable/j.ctt207g7zn.5
 
 - id: rossPoliticsDebtResistance2013
   abstract: >-
@@ -23773,71 +25182,6 @@ references:
   URL: >-
     https://ezproxy.elon.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=91916958&site=ehost-live
   volume: '22'
-
-- id: rossWAGESFUTURE2013
-  abstract: >-
-    In the course of industrialization, the conflict over wages tends to occupy
-    center stage. It still does in manufacturing zones in many developing
-    countries, and it is hardly a thing of the past in economies considered to
-    be post-industrial in their development. But in societies that are heavily
-    financialized, the struggle over debt is increasingly the frontline
-    conflict. Not because wage conflict is over (it never will be), but because
-    debts, for most people, are the wages of the future, to which creditors lay
-    claim far in advance. Each new surrender of a part of our lives to
-    debtfinancing further
-  accessed:
-    - year: 2020
-      month: 4
-      day: 14
-  archive: JSTOR
-  author:
-    - family: ROSS
-      given: ANDREW
-  citation-key: rossWAGESFUTURE2013
-  collection-title: And the Case for Debt Refusal
-  container-title: Creditocracy
-  DOI: 10.2307/j.ctt207g7zn.7
-  issued:
-    - year: 2013
-  page: 144-180
-  publisher: OR Books
-  source: JSTOR
-  title: WAGES OF THE FUTURE
-  type: chapter
-  URL: https://www.jstor.org/stable/j.ctt207g7zn.7
-
-- id: rossWEAREALL2013
-  abstract: >-
-    In 1975, an infamous report for the Trilateral Commission suggested that
-    Western elites were confronting a new menace that the authors described as
-    an “excess of democracy.” According to the report, electorates were no
-    longer content to be passively governed, and so all kinds of demands were
-    being made by newly emboldened populations—women, gays, ethnic minorities,
-    the urban poor, students, and the aspiring citizenry of decolonized
-    countries. This “overloading” of government by ordinarily apathetic citizens
-    was unhealthy, in the opinion of the report’s authors. The industrialized
-    countries, they concluded, needed “a greater degree of moderation in
-    democracy.” Otherwise, all
-  accessed:
-    - year: 2020
-      month: 4
-      day: 14
-  archive: JSTOR
-  author:
-    - family: ROSS
-      given: ANDREW
-  citation-key: rossWEAREALL2013
-  collection-title: And the Case for Debt Refusal
-  container-title: Creditocracy
-  DOI: 10.2307/j.ctt207g7zn.4
-  issued:
-    - year: 2013
-  page: 30-67
-  publisher: OR Books
-  source: JSTOR
-  title: WE ARE ALL REVOLVERS
-  type: chapter
-  URL: https://www.jstor.org/stable/j.ctt207g7zn.4
 
 - id: rossYouAreNot2014
   abstract: >-
@@ -23877,21 +25221,21 @@ references:
     https://ezproxy.elon.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=sih&AN=96062680&site=ehost-live
   volume: '6'
 
-- id: rothsteinColorLawForgotten2018
+- id: rothsteinColorLawForgotten2017
+  abstract: "New York Times Bestseller • Notable Book of the Year • Editors' Choice Selection One of Bill Gates’ “Amazing Books” of the Year One of Publishers Weekly’s 10 Best Books of the Year Longlisted for the National Book Award for Nonfiction An NPR Best Book of the Year Winner of the Hillman Prize for Nonfiction Gold Winner • California Book Award (Nonfiction) Finalist • Los Angeles Times Book Prize (History) Finalist • Brooklyn Public Library Literary Prize This “powerful and disturbing history” exposes how American governments deliberately imposed racial segregation on metropolitan areas nationwide (New York Times Book Review). \_ Widely heralded as a “masterful” (Washington Post) and “essential” (Slate) history of the modern American metropolis, Richard Rothstein’s The Color of Law offers “the most forceful argument ever published on how federal, state, and local governments gave rise to and reinforced neighborhood segregation” (William Julius Wilson). Exploding the myth of de facto segregation arising from private prejudice or the unintended consequences of economic forces, Rothstein describes how the American government systematically imposed residential segregation: with undisguised racial zoning; public housing that purposefully segregated previously mixed communities; subsidies for builders to create whites-only suburbs; tax exemptions for institutions that enforced segregation; and support for violent resistance to African Americans in white neighborhoods. A groundbreaking, “virtually indispensable” study that has already transformed our understanding of twentieth-century urban history (Chicago Daily Observer), The Color of Law forces us to face the obligation to remedy our unconstitutional past."
   author:
     - family: Rothstein
       given: Richard
-  citation-key: rothsteinColorLawForgotten2018
-  event-place: New York, London
-  ISBN: 978-1-63149-453-6
+  citation-key: rothsteinColorLawForgotten2017
+  ISBN: 978-1-63149-286-0
   issued:
-    - year: 2018
+    - year: 2017
       month: 5
-      day: 1
-  language: English
-  number-of-pages: '368'
-  publisher: Liveright
-  publisher-place: New York, London
+      day: 2
+  language: en
+  number-of-pages: '246'
+  publisher: Liveright Publishing
+  source: Google Books
   title: >-
     The Color of Law: A Forgotten History of How Our Government Segregated
     America
@@ -24068,6 +25412,48 @@ references:
   title-short: The Triumph of Injustice
   type: book
 
+- id: SakeConsumerProtection2021
+  abstract: >-
+    The chapter focusses on discursive financialization of households performed
+    by Czech public institutions (the Czech National Bank and the Ministry of
+    Finance) and political actors. The chapter advances two arguments. The first
+    concerns the ways in which the discourse of public institutions and
+    politicians constructs households as financial subjects. Households are
+    constructed as overlapping with the nuclear family and as a hybrid
+    (unitary/compound) actor. This enables institutions to acknowledge the
+    social dimensions of finance – specifically, consumer credit and the debt
+    enforcement system. The second argument reveals the normative content of
+    discursive financialization in the Czech Republic that blends paternalistic
+    and neoliberal elements and combines a seemingly empowering accent on
+    consumer rights with the central idea of (self-) protection. The public
+    discourse on household finance constructs households as unreliable and
+    irresponsible and calls for their responsible financial conduct through the
+    means of financial (self-)education, which individualizes the issue and
+    obscures its structural and legal conditions.
+  accessed:
+    - year: 2022
+      month: 1
+      day: 16
+  citation-key: SakeConsumerProtection2021
+  DOI: 10.4324/9781003028857-10
+  ISBN: 978-1-00-302885-7
+  issued:
+    - year: 2021
+      month: 6
+      day: 10
+  language: en
+  page: 148-168
+  publisher: Routledge
+  source: www.taylorfrancis.com
+  title: >-
+    "For the sake of consumer protection" : Blending paternalism and
+    neoliberalism in the discursive financialization of households in the Czech
+    Republic
+  title-short: “For the sake of consumer protection”
+  type: book
+  URL: >-
+    https://www.taylorfrancis.com/chapters/edit/10.4324/9781003028857-10/sake-consumer-protection-tomáš-hoření-samec
+
 - id: salinasEducationalOpportunityContentious2012
   accessed:
     - year: 2021
@@ -24192,6 +25578,18 @@ references:
   type: legal_case
   volume: '359'
 
+- id: SandyLakeBand2013
+  authority: 8th Cir.
+  citation-key: SandyLakeBand2013
+  container-title: F. 3d
+  issued:
+    - year: 2013
+  jurisdiction: us:c8
+  page: '1098'
+  title: Sandy Lake Band of Mississippi Chippewa v. US
+  type: legal_case
+  volume: '714'
+
 - id: saratBlackwellCompanionLaw2004
   abstract: >-
     The Blackwell Companion to Law and Society is an authoritative study of the
@@ -24224,60 +25622,6 @@ references:
   title: The Blackwell Companion to Law and Society
   type: book
   URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=351500
-
-- id: saratCauseLawyeringPolitical1998
-  accessed:
-    - year: 2022
-      month: 1
-      day: 1
-  author:
-    - family: Sarat
-      given: Austin
-    - family: Scheingold
-      given: Stuart
-  citation-key: saratCauseLawyeringPolitical1998
-  ISBN: 978-0-19-535447-8
-  issued:
-    - year: 1998
-  publisher: Oxford University Press, Incorporated
-  source: ProQuest Ebook Central
-  title: 'Cause Lawyering: Political Commitments and Professional Responsibilities'
-  title-short: Cause Lawyering
-  type: book
-  URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=4701078
-
-- id: saratCauseLawyersSocial2006
-  abstract: >-
-    Cause Lawyers and Social Movements seeks to reorient scholarship on cause
-    lawyers, inviting scholars to think about cause lawyering from the
-    perspective of those political activists with whom cause lawyers work and
-    whom they seek to serve.  It demonstrates that while all cause lawyering
-    cuts against the grain of conventional understandings of legal practice and
-    professionalism, social movement lawyering poses distinctively thorny
-    problems. 
-
-    The editors and authors of this volume explore the following questions: What
-    do cause lawyers do for, and to, social movements?  How, when, and why do
-    social movements turn to and use lawyers and legal strategies?  Does their
-    use of lawyers and legal strategies advance or constrain the achievement of
-    their goals?  And, how do movements shape the lawyers who serve them and how
-    do lawyers shape the movements?
-  accessed:
-    - year: 2022
-      month: 1
-      day: 1
-  author:
-    - family: Sarat
-      given: Austin
-    - family: Scheingold
-      given: Stuart
-  citation-key: saratCauseLawyersSocial2006
-  issued:
-    - year: 2006
-  language: en
-  publisher: Stanford University Press
-  title: Cause Lawyers and Social Movements
-  type: book
 
 - id: saratWorldsCauseLawyers2005
   author:
@@ -24569,6 +25913,24 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/tlr74&i=1963
   volume: '74'
 
+- id: schwarczScopingDefiningFinancial
+  author:
+    - family: Schwarcz
+      given: Steven L
+    - family: Leonhardt
+      given: Theodore L
+  citation-key: schwarczScopingDefiningFinancial
+  container-title: LAW AND CONTEMPORARY PROBLEMS
+  issue: '1'
+  language: en
+  page: '15'
+  source: Zotero
+  title: >-
+    Scoping and Defining Financial Inclusion, Access to Credit, and Sustainable
+    Finance
+  type: article-journal
+  volume: '84'
+
 - id: schwartzHistorySupremeCourt1995
   author:
     - family: Schwartz
@@ -24699,49 +26061,17 @@ references:
   title-short: The Art of Not Being Governed
   type: book
 
-- id: scottSeeingStateHow1999
-  abstract: >-
-    Compulsory ujamaa villages in Tanzania, collectivization in Russia, Le
-    Corbusier’s urban planning theory realized in Brasilia, the Great Leap
-    Forward in China, agricultural "modernization" in the Tropics―the twentieth
-    century has been racked by grand utopian schemes that have inadvertently
-    brought death and disruption to millions. Why do well-intentioned plans for
-    improving the human condition go tragically awry?In this wide-ranging and
-    original book, James C. Scott analyzes failed cases of large-scale
-    authoritarian plans in a variety of fields. Centrally managed social plans
-    misfire, Scott argues, when they impose schematic visions that do violence
-    to complex interdependencies that are not―and cannot―be fully understood.
-    Further, the success of designs for social organization depends upon the
-    recognition that local, practical knowledge is as important as formal,
-    epistemic knowledge. The author builds a persuasive case against
-    "development theory" and imperialistic state planning that disregards the
-    values, desires, and objections of its subjects. He identifies and discusses
-    four conditions common to all planning disasters: administrative ordering of
-    nature and society by the state; a "high-modernist ideology" that places
-    confidence in the ability of science to improve every aspect of human life;
-    a willingness to use authoritarian state power to effect large- scale
-    interventions; and a prostrate civil society that cannot effectively resist
-    such plans.
-  author:
-    - family: Scott
-      given: James C.
-  citation-key: scottSeeingStateHow1999
-  event-place: New Haven, Conn.
-  ISBN: 978-0-300-07815-2
+- id: ScottHarris2007
+  citation-key: ScottHarris2007
+  container-title: U.S.
   issued:
-    - year: 1999
-      month: 2
-      day: 8
-  language: English
-  number-of-pages: '464'
-  publisher: Yale University Press
-  publisher-place: New Haven, Conn.
-  source: Amazon
-  title: >-
-    Seeing like a State: How Certain Schemes to Improve the Human Condition Have
-    Failed
-  title-short: Seeing like a State
-  type: book
+    - year: 2007
+  jurisdiction: us
+  page: '372'
+  title: Scott v. Harris
+  title-short: Scott
+  type: legal_case
+  volume: '550'
 
 - id: scottWeaponsWeakEveryday1987
   abstract: >-
@@ -24860,51 +26190,6 @@ references:
   title: Household Indebtedness Risks in the Czech Republic
   type: article-journal
   volume: '5'
-
-- id: sedovaJindriskaSedovaHousehold2011
-  abstract: >-
-    In the past 20 years the economy of the Czech Republic has experienced
-    substantial changes. In the 1990s the development was affected by the
-    transformation which sought to establish the right conditions for
-    privatization and creation of elementary market relations. In the last
-    decade the characteristic elements such as private ownership and
-    corresponding institutional framework have been strengthened. This
-    development was marked by the accession of the Czech Republic to the EU. The
-    Czech Republic is striving to reduce the difference between its level of
-    economic development and the quality of institutional framework in
-    comparison with other developed countries. The process of finding the
-    adequate solutions has been hampered by the negative impact of the world
-    financial crisis on the Czech Republic and the standard of living of its
-    inhabitants. This contribution seeks to address the question of whether and
-    to which extent the economic development of the transitive Czech economy is
-    affected by the change in behaviour of households and their tendency to
-    consumption, i.e. in the sense of reduction or increase in demand for goods
-    and services. It aims to verify whether the increasing trend of household
-    indebtedness and decreasing trend of saving pose a significant risk in the
-    Czech Republic. At a general level the analysis aims to contribute to
-    finding an answer to the question of whether the debt increase of Czech
-    households is connected to the risk of &quot;eating through&quot; the
-    borrowed money and whether Czech households risk falling into a debt trap.
-    In addition to household indebtedness risks in the Czech Republic the
-    analysis will focus on identification of specifics of the transformation
-    phase of the Czech economy in comparison with the EU countries, or selected
-    OECD countries. Keywords—household indebtedness, household consumption,
-    credits, financial literacy
-  accessed:
-    - year: 2021
-      month: 1
-      day: 5
-  author:
-    - family: Sedova
-      given: J.
-  citation-key: sedovaJindriskaSedovaHousehold2011
-  issued:
-    - year: 2011
-  language: en
-  title: Jindřiška Šedová Household Indebtedness Risks in the Czech Republic
-  type: webpage
-  URL: >-
-    /paper/Jind%C5%99i%C5%A1ka-%C5%A0edov%C3%A1-Household-Indebtedness-Risks-in-Sedova/a069e673f7e4d4ed3cb26fd55190506d9a6ddbca
 
 - id: segalLaborLawCase1958
   abstract: >-
@@ -25043,6 +26328,18 @@ references:
   URL: www.jstor.org/stable/24052536
   volume: '29'
 
+- id: ShadyGroveOrthopedic2010
+  citation-key: ShadyGroveOrthopedic2010
+  container-title: U.S.
+  issued:
+    - year: 2010
+  jurisdiction: us
+  page: '393'
+  title: Shady Grove Orthopedic Associates, P.A. v. Allstate Ins. Co.
+  title-short: Allstate Ins.
+  type: legal_case
+  volume: '559'
+
 - id: shapiroProtectingCompetitionAmerican2019
   abstract: >-
     Accumulating evidence points to the need for more vigorous antitrust
@@ -25093,6 +26390,19 @@ references:
   page: '20'
   title: Black Lives Matter Facing Growing Smear Campaign
   type: article-journal
+
+- id: Shillman2000
+  authority: 6th Cir.
+  citation-key: Shillman2000
+  document-number: Case No. 99-3215
+  issued:
+    - year: 2000
+      month: 6
+      day: 29
+  jurisdiction: us:c6
+  title: Shillman v. U.S.
+  title-short: Shillman
+  type: legal_case
 
 - id: silBattleFlexibilizationPostcommunist2017
   abstract: >-
@@ -25588,6 +26898,54 @@ references:
   URL: http://www.jstor.org/stable/2095581
   volume: '51'
 
+- id: soederbergDebtfareStatesPoverty2014
+  abstract: >-
+    WINNER of the BISA IPEG Book Prize 2015 http:
+    //www.bisa-ipeg.org/ipeg-book-prize-2015-winner-announced/ Under the rubric
+    of 'financial inclusion', lending to the poor -in both the global North and
+    global South -has become a highly lucrative and rapidly expanding industry
+    since the 1990s. A key inquiry of this book is what is 'the financial' in
+    which the poor are asked to join. Instead of embracing the mainstream
+    position that financial inclusion is a natural, inevitable and mutually
+    beneficial arrangement, Debtfare States and the Poverty Industry suggests
+    that the structural violence inherent to neoliberalism and credit-led
+    accumulation have created and normalized a reality in which the working poor
+    can no longer afford to live without expensive credit.The book further
+    transcends economic treatments of credit and debt by revealing how the
+    poverty industry is extricably linked to the social power of money, the
+    paradoxes in credit-led accumulation, and 'debtfarism'. The latter refers to
+    rhetorical and regulatory forms of governance that mediate and facilitate
+    the expansion of the poverty industry and the reliance of the poor on credit
+    to augment/replace their wages. Through a historically grounded analysis,
+    the author examines various dimensions of the poverty industry ranging from
+    the credit card, payday loan, and student loan industries in the United
+    States to micro-lending and low-income housing finance industries in
+    Mexico.Providing a much-needed theorization of the politics of debt,
+    Debtfare States and the Poverty Industry has wider implications of the
+    increasing dependence of the poor on consumer credit across the globe, this
+    book will be of very strong interest to students and scholars of Global
+    Political Economy, Finance, Development Studies, Geography, Law, History,
+    and Sociology.The Open Access version of this book, available at http:
+    //www.taylorfrancis.com/books/e/9781315761954, has been made available under
+    a Creative Commons Attribution-Non Commercial-No Derivatives 4.0
+    license.https: //www.youtube.com/watch?v=2lU6PHjyOzU
+  author:
+    - family: Soederberg
+      given: Susanne
+  citation-key: soederbergDebtfareStatesPoverty2014
+  ISBN: 978-0-415-82267-1
+  issued:
+    - year: 2014
+  language: en
+  number-of-pages: '284'
+  publisher: Routledge
+  source: Google Books
+  title: >-
+    Debtfare States and the Poverty Industry: Money, Discipline and the Surplus
+    Population
+  title-short: Debtfare States and the Poverty Industry
+  type: book
+
 - id: sohoniUnsuitableSuitorsAntiMiscegenation2014
   abstract: >-
     In 1861, Nevada became the first state to pass a law specifically barring
@@ -25790,6 +27148,58 @@ references:
   title: 'The Common Law of the Workplace: The Views of Arbitrators'
   title-short: The Common Law of the Workplace
   type: book
+
+- id: StateDeAngelo2007
+  accessed:
+    - year: 2022
+      month: 3
+      day: 26
+  authority: superior.court
+  citation-key: StateDeAngelo2007
+  container-title: N.J.Super.
+  issued:
+    - year: 2007
+      month: 9
+      day: 13
+  jurisdiction: us:nj
+  page: '23'
+  submitted:
+    date-parts:
+      - - '2007'
+        - 9
+        - 13
+  title: State v. DeAngelo
+  title-short: DeAngelo
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:396%20N.J.Super.%2023#autoLogin
+  volume: '396'
+
+- id: StateDeAngelo2009
+  accessed:
+    - year: 2022
+      month: 3
+      day: 26
+  authority: supreme.court
+  citation-key: StateDeAngelo2009
+  container-title: N.J.
+  issued:
+    - year: 2009
+      month: 2
+      day: 5
+  jurisdiction: us:nj
+  page: '478'
+  submitted:
+    date-parts:
+      - - '2009'
+        - 2
+        - 5
+  title: State v. DeAngelo
+  title-short: DeAngelo
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:197%20N.J.%20478#autoLogin
+  volume: '197'
 
 - id: steinmanLegitimizingAmericanIndian2014
   abstract: >-
@@ -26057,6 +27467,19 @@ references:
   URL: http://www.jstor.org/stable/24052226
   volume: '27'
 
+- id: StoutVincent2018
+  authority: 5th Cir.
+  citation-key: StoutVincent2018
+  container-title: Fed.Appx.
+  issued:
+    - year: 2018
+  jurisdiction: us:c5
+  page: '468'
+  title: Stout v. Vincent
+  title-short: Stout
+  type: legal_case
+  volume: '717'
+
 - id: stowellGreatStrikes18772008
   abstract: "A spectacular example of collective violence, the Great Strikes of 1877 was the first national strike and the first major strikes against the railroad industry. In some places, notably St. Louis, non-railroad workers also abandoned city businesses, creating one of the nation’s first general strikes. Mobilizing hundreds of thousands of workers, the Great Strikes of 1877 transformed the nation’s political landscape, shifting the primary political focus from Reconstruction to labor, capital, and the changing role of the state. Including essays by distinguished historians exploring the social, political, regional, and ethnic landscape of the Great Strikes of 1877, this collection investigates long-term effects on state militias and national guard units; ethnic and class characterization of strikers; pictorial depictions of poor laborers in the press; organizational strategies employed by railroad workers; participation by blacks; violence against Chinese immigrants; and the developing tension between capitalism and racial equality in the United States.  \_ Contributors include Joshua Brown, Steven J. Hoffman, Michael Kazin, David Miller, Richard Schneirov, David O. Stowell, and Shelton Stromquist."
   citation-key: stowellGreatStrikes18772008
@@ -26107,6 +27530,17 @@ references:
   title-short: Satisfaction Guaranteed
   type: book
 
+- id: StrawbridgeCurtiss1806
+  citation-key: StrawbridgeCurtiss1806
+  container-title: US
+  issued:
+    - year: 1806
+  jurisdiction: us
+  page: '267'
+  title: Strawbridge  v. Curtiss
+  type: legal_case
+  volume: '7'
+
 - id: strayerMedievalOriginsModern2005
   abstract: >-
     The modern state, however we conceive of it today, is based on a pattern
@@ -26137,6 +27571,50 @@ references:
   source: Google Books
   title: On the Medieval Origins of the Modern State
   type: book
+
+- id: streeckBuyingTimeDelayed2014
+  author:
+    - family: Streeck
+      given: Wolfgang
+  citation-key: streeckBuyingTimeDelayed2014
+  issued:
+    - year: 2014
+      month: 6
+      day: 3
+  source: Amazon
+  title: 'Buying Time: The Delayed Crisis of Democratic Capitalism'
+  title-short: Buying Time
+  translator:
+    - family: Camiller
+      given: Patrick
+    - family: Fernbach
+      given: David
+  type: book
+
+- id: streinzerCommonSensesDistribution2020
+  author:
+    - family: Streinzer
+      given: Andreas
+  citation-key: streinzerCommonSensesDistribution2020
+  container-title: >-
+    Crisis y sentidos de injusticia: tensiones conceptuales y aproximaciones
+    etnográficas
+  editor:
+    - family: Aramburu
+      given: Mikel
+    - family: Bofill
+      given: Sílvia
+  ISBN: 978-84-9168-618-7
+  issued:
+    - year: 2020
+  language: en
+  page: '159'
+  publisher: Edicions Universitat Barcelona
+  source: Google Books
+  title: >-
+    Common senses of distribution – Un/deservingness as conceptual tool for
+    understanding inequality
+  type: chapter
 
 - id: strevensLegalEducationSimulation2017
   abstract: >-
@@ -26280,18 +27758,6 @@ references:
   source: Google Books
   title: Bringing the State Back In
   type: book
-
-- id: SullivanLongHagerty1991
-  authority: NLRB
-  citation-key: SullivanLongHagerty1991
-  container-title: N.L.R.B.
-  issued:
-    - year: 1991
-  jurisdiction: us
-  page: '1007'
-  title: Sullivan, Long & Hagerty
-  type: legal_case
-  volume: '303'
 
 - id: summersEmploymentWillUnited2000
   accessed:
@@ -26533,6 +27999,17 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/10.5749/j.ctttt0p8.5
   volume: '4'
+
+- id: SwiftTyson1842
+  citation-key: SwiftTyson1842
+  container-title: US
+  issued:
+    - year: 1842
+  jurisdiction: us
+  page: '1'
+  title: Swift v. Tyson
+  type: legal_case
+  volume: '41'
 
 - id: szymanskiCapitalistStatePolitics1978
   author:
@@ -27508,6 +28985,18 @@ references:
   type: chapter
   URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=4701078
 
+- id: TrumpCNNBroadcasting2020
+  authority: N.D. Ga.
+  citation-key: TrumpCNNBroadcasting2020
+  issued:
+    - year: 2020
+      month: 11
+      day: 12
+  jurisdiction: us:c11:ga.nd
+  number: Case No. 1:20-cv-01045
+  title: Trump v. CNN Broadcasting, Inc.
+  type: legal_case
+
 - id: tushnetMakingCivilRights1996
   abstract: >-
     From the 1930s to the early 1960s civil rights law was made primarily
@@ -27546,25 +29035,6 @@ references:
   source: Google Books
   title: 'Making Civil Rights Law: Thurgood Marshall and the Supreme Court, 1936-1961'
   title-short: Making Civil Rights Law
-  type: book
-
-- id: tushnetNAACPLegalStrategy1987
-  abstract: >-
-    Mark Tushnet presents the story of the NAACP's legal campaign against
-    segregated schools as a case study in public interest law, which in fact
-    began in the United States with that very campaign.
-  author:
-    - family: Tushnet
-      given: Mark V.
-  citation-key: tushnetNAACPLegalStrategy1987
-  ISBN: 978-0-8078-4173-0
-  issued:
-    - year: 1987
-  language: en
-  number-of-pages: '244'
-  publisher: Univ of North Carolina Press
-  source: Google Books
-  title: The NAACP's Legal Strategy Against Segregated Education, 1925-1950
   type: book
 
 - id: tushnetTakingConstitutionAway2000
@@ -27932,6 +29402,31 @@ references:
   type: article-journal
   volume: '22'
 
+- id: vukovicCapturingResourcesRole2016
+  accessed:
+    - year: 2022
+      month: 1
+      day: 16
+  author:
+    - family: Vuković
+      given: Danilo
+  citation-key: vukovicCapturingResourcesRole2016
+  container-title: Sociologija
+  ISSN: 0038-0318
+  issue: '2'
+  issued:
+    - year: 2016
+  language: English
+  page: 253-279
+  publisher: Sociološko naučno društvo Srbije
+  source: www.ceeol.com
+  title: >-
+    Capturing Resources: The Role of Professional Communities and Middle Classes
+    in Fostering Social Reforms Within Serbia
+  type: article-journal
+  URL: https://www.ceeol.com/search/article-detail?id=425987
+  volume: '58'
+
 - id: wagnerPropertySocialRelation2004
   abstract: >-
     This paper describes the informal system of property rights that
@@ -28067,6 +29562,31 @@ references:
   URL: www.jstor.org/stable/40220051
   volume: '48'
 
+- id: WalMartStoresInc2016
+  accessed:
+    - year: 2022
+      month: 3
+      day: 26
+  citation-key: WalMartStoresInc2016
+  container-title: Cal.App.5th
+  issued:
+    - year: 2016
+      month: 10
+      day: 14
+  jurisdiction: us:ca
+  page: '194'
+  submitted:
+    date-parts:
+      - - '2016'
+        - 10
+        - 14
+  title: Wal-Mart Stores, Inc. v. United Food & Commercial Workers Internat. Union
+  title-short: Wal-Mart Stores
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:4%20Cal.App.5th%20194#autoLogin
+  volume: '4'
+
 - id: walshDoubleLifeUndercover2016
   abstract: >-
     My time covertly trying to help labor get a foothold in the casinos in
@@ -28190,6 +29710,48 @@ references:
   URL: http://link.springer.com/article/10.1007/s10672-012-9189-3
   volume: '24'
 
+- id: WeatherModificationLLC2021
+  authority: D.N.D.
+  citation-key: WeatherModificationLLC2021
+  issued:
+    - year: 2021
+      month: 7
+      day: 6
+  jurisdiction: us:c8:nd.d
+  number: Case No. 3:20-cv-73
+  title: Weather Modification LLC v. Brackin
+  title-short: Brackin
+  type: legal_case
+
+- id: WebbNolan1972
+  authority: M.D.N.C.
+  citation-key: WebbNolan1972
+  container-title: F.Supp.
+  issued:
+    - year: 1972
+  jurisdiction: us:c4:nc.md
+  page: '418'
+  title: Webb v. Nolan
+  title-short: Webb
+  type: legal_case
+  volume: '361'
+
+- id: weberEconomySociety2019
+  author:
+    - family: Weber
+      given: Max
+  citation-key: weberEconomySociety2019
+  issued:
+    - year: 2019
+  original-date:
+    - year: 1921
+  publisher: Harvard University Press
+  title: Economy and Society
+  translator:
+    - family: Tribe
+      given: Keith
+  type: book
+
 - id: weidhornYeshivaFacultyUnion1998
   accessed:
     - year: 2019
@@ -28273,18 +29835,6 @@ references:
   type: article-journal
   volume: '52'
 
-- id: WellstreamCorp1994
-  authority: NLRB
-  citation-key: WellstreamCorp1994
-  container-title: N.L.R.B.
-  issued:
-    - year: 1994
-  jurisdiction: us
-  page: '698'
-  title: Wellstream Corp.
-  type: legal_case
-  volume: '313'
-
 - id: westernComparativeStudyWorkingClass1995
   abstract: >-
     In contrast to the diverse trends that prevailed for most of the postwar
@@ -28321,7 +29871,7 @@ references:
   volume: '60'
 
 - id: WesternWatershedsProject2016
-  authority: District Court
+  authority: D. Wyoming
   citation-key: WesternWatershedsProject2016
   container-title: F. Supp. 3d
   issued:
@@ -28334,7 +29884,7 @@ references:
   volume: '196'
 
 - id: WesternWatershedsProject2017
-  authority: Court of Appeals
+  authority: 10th Circuit
   citation-key: WesternWatershedsProject2017
   container-title: F. 3d
   issued:
@@ -28347,7 +29897,7 @@ references:
   volume: '869'
 
 - id: WesternWatershedsProject2018
-  authority: district.court
+  authority: D. Wyoming
   citation-key: WesternWatershedsProject2018
   container-title: F.Supp.3d
   issued:
@@ -28358,6 +29908,20 @@ references:
   title-short: Michael
   type: legal_case
   volume: '353'
+
+- id: wheelerCreatingFederalJudicial1989
+  author:
+    - family: Wheeler
+      given: Russell R.
+    - family: Harrison
+      given: Cynthia Ellen
+  citation-key: wheelerCreatingFederalJudicial1989
+  issued:
+    - year: 1989
+  language: en
+  publisher: Federal Judicial Center
+  title: Creating the Federal Judicial System
+  type: book
 
 - id: whiteMutinyShipboardStrikes2004
   accessed:
@@ -28408,6 +29972,17 @@ references:
   type: legal_case
   volume: '363'
 
+- id: WholeWomanHealth2016
+  citation-key: WholeWomanHealth2016
+  container-title: S. Ct.
+  issued:
+    - year: 2016
+  jurisdiction: us
+  page: '2292'
+  title: Whole Woman's Health v. Hellerstedt
+  type: legal_case
+  volume: '136'
+
 - id: wickensOrganizationalImpactUniversity2008
   abstract: >-
     The current review presents both postulated and empirically tested
@@ -28444,6 +30019,20 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/40269087
   volume: '56'
+
+- id: wigmoreJudicialFunction1917
+  author:
+    - family: Wigmore
+      given: J.H.
+  citation-key: wigmoreJudicialFunction1917
+  container-title: 'Science of Legal Method: Select Essays by Various Authors'
+  issued:
+    - year: 1917
+  language: en
+  page: xxvi-xlii
+  publisher: Boston Book Company
+  title: The Judicial Function
+  type: chapter
 
 - id: willemezPoliticalProfessionalCommitmentFrench2005
   author:
@@ -28751,6 +30340,32 @@ references:
   type: article-journal
   volume: '66'
 
+- id: WolfStreetSupermarkets1985
+  accessed:
+    - year: 2022
+      month: 3
+      day: 26
+  authority: supreme.court
+  citation-key: WolfStreetSupermarkets1985
+  container-title: A.D.2d
+  issued:
+    - year: 1985
+      month: 4
+      day: 5
+  jurisdiction: us:ny
+  page: '25'
+  submitted:
+    date-parts:
+      - - '1985'
+        - 4
+        - 5
+  title: Wolf Street Supermarkets, Inc. v. McPartland
+  title-short: McPartland
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:108%20A.D.2d%2025#autoLogin
+  volume: '108'
+
 - id: woodDemocracyCapitalismRenewing2016
   abstract: >-
     Historian and political thinker Ellen Meiksins Wood argues that theories of
@@ -28782,6 +30397,51 @@ references:
   title: 'Democracy Against Capitalism: Renewing Historical Materialism'
   title-short: Democracy Against Capitalism
   type: book
+
+- id: woodOriginCapitalismLonger2002
+  abstract: >-
+    Capitalism is not a natural and inevitable consequence of human nature, nor
+    is it simply an extension of age-old practices of trade and commerce.In this
+    original and provocative book Ellen Meiksins Wood reminds us that capitalism
+    is not a natural and inevitable consequence of human nature, nor is it
+    simply an extension of age-old practices of trade and commerce. Rather, it
+    is a late and localized product of very specific historical conditions,
+    which required great transformations in social relations and in the human
+    interaction with nature.This new edition is substantially revised and
+    expanded, with extensive new material on imperialism, anti-Eurocentric
+    history, capitalism and the nation-state, and the differences between
+    capitalism and non-capitalist commerce. The author traces links between the
+    origin of capitalism and contemporary conditions such as ‘globalization’,
+    ecological degradation, and the current agricultural crisis.
+  author:
+    - family: Wood
+      given: Ellen Meiksins
+  citation-key: woodOriginCapitalismLonger2002
+  ISBN: 978-1-85984-392-5
+  issued:
+    - year: 2002
+      month: 6
+      day: 17
+  language: en
+  number-of-pages: '216'
+  publisher: Verso Books
+  source: Google Books
+  title: 'The Origin of Capitalism: A Longer View'
+  title-short: The Origin of Capitalism
+  type: book
+
+- id: WoodsCityGreensboro2017
+  authority: 4th Cir.
+  citation-key: WoodsCityGreensboro2017
+  container-title: F.3d
+  issued:
+    - year: 2017
+  jurisdiction: us:c4
+  page: '639'
+  title: Woods v. City of Greensboro
+  title-short: Woods
+  type: legal_case
+  volume: '855'
 
 - id: woodwardMakingRightsWork2015
   abstract: >-
@@ -28815,6 +30475,17 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/43670531
   volume: '49'
+
+- id: WorldWideVolkswagenCorp1980
+  citation-key: WorldWideVolkswagenCorp1980
+  container-title: US
+  issued:
+    - year: 1980
+  jurisdiction: us
+  page: '286'
+  title: World-Wide Volkswagen Corp. v. Woodson
+  type: legal_case
+  volume: '444'
 
 - id: worthenOrganizingLearningMetro2015
   abstract: >-
@@ -28894,6 +30565,32 @@ references:
   source: Google Books
   title: Class, Crisis and the State
   type: book
+
+- id: WrightElecInc2004
+  accessed:
+    - year: 2022
+      month: 3
+      day: 26
+  authority: court.appeals
+  citation-key: WrightElecInc2004
+  container-title: N.W.2d
+  issued:
+    - year: 2004
+      month: 9
+      day: 14
+  jurisdiction: us:mn
+  page: '313'
+  submitted:
+    date-parts:
+      - - '2004'
+        - 9
+        - 14
+  title: Wright Elec., Inc. v. Ouellette
+  title-short: Wright Elec.
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:686%20N.W.2d%20313#autoLogin
+  volume: '686'
 
 - id: wrightWorkingClassPowerCapitalistClass2000
   abstract: >-
@@ -28987,6 +30684,32 @@ references:
   title: 'The Curse of Bigness: Antitrust in the New Gilded Age'
   title-short: The Curse of Bigness
   type: book
+
+- id: wuestConservativeRightPrivacy2021
+  accessed:
+    - year: 2022
+      month: 2
+      day: 26
+  author:
+    - family: Wuest
+      given: Joanna
+  citation-key: wuestConservativeRightPrivacy2021
+  container-title: Law & Social Inquiry
+  DOI: 10.1017/lsi.2021.1
+  ISSN: 0897-6546
+  issue: '4'
+  issued:
+    - year: 2021
+      month: 4
+      day: 13
+  note: 'Saved from BrowZine: https://thirdiron.com/download'
+  page: 964 - 992
+  title: >-
+    A Conservative Right to Privacy: Legal, Ideological, and Coalitional
+    Transformations in US Social Conservatism
+  type: article-journal
+  URL: https://browzine.com/articles/460876482
+  volume: '46'
 
 - id: WyomingCivilData2015
   chapter-number: '2015'
@@ -29388,6 +31111,18 @@ references:
   type: article-journal
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/hypa.12401
   volume: '33'
+
+- id: ZielinskiPhiladelphiaPiers1956
+  authority: E.D. Pa.
+  citation-key: ZielinskiPhiladelphiaPiers1956
+  container-title: F. Supp.
+  issued:
+    - year: 1956
+  jurisdiction: us:c3:pa.ed
+  page: '408'
+  title: Zielinski v. Philadelphia Piers
+  type: legal_case
+  volume: '139'
 
 - id: Zotero
   accessed:
