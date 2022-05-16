@@ -897,6 +897,7 @@ references:
   type: book
 
 - id: AndersonLibertyLobby1986
+  authority: supreme.court
   citation-key: AndersonLibertyLobby1986
   container-title: U.S.
   issued:
@@ -1963,8 +1964,9 @@ references:
   URL: https://patents.google.com/patent/US8185560B2/en
 
 - id: AshcroftIqbal2009
+  authority: supreme.court
   citation-key: AshcroftIqbal2009
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 2009
   jurisdiction: us
@@ -2623,6 +2625,20 @@ references:
   type: article-journal
   volume: '40'
 
+- id: BatesStateBar1977
+  authority: Supreme Court
+  citation-key: BatesStateBar1977
+  container-title: US
+  issued:
+    - year: 1977
+      month: 6
+      day: 27
+  jurisdiction: us
+  page: '350'
+  title: Bates v. State Bar of Ariz.
+  type: legal_case
+  volume: '433'
+
 - id: baxandallAmericaWorkingWomen1995
   abstract: >-
     “I am stunned by the scope and breadth of this splendid new collection of
@@ -2838,8 +2854,9 @@ references:
   volume: '13'
 
 - id: BellAtlanticCorp2007
+  authority: supreme.court
   citation-key: BellAtlanticCorp2007
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 2007
   jurisdiction: us
@@ -3311,6 +3328,20 @@ references:
   type: webpage
   URL: >-
     https://www.wral.com/lawmakers-override-mccrory-veto-on-controversial-private-property-bill/14687952/
+
+- id: BirbrowerMontalbanoCondon1998
+  authority: Supreme Court
+  citation-key: BirbrowerMontalbanoCondon1998
+  container-title: Cal. 4th
+  issued:
+    - year: 1998
+      month: 1
+      day: 5
+  jurisdiction: us:ca
+  page: '119'
+  title: Birbrower, Montalbano, Condon & Frank v. Superior Ct.
+  type: legal_case
+  volume: '17'
 
 - id: birdRethinkingWrongfulDischarge2004
   accessed:
@@ -4934,6 +4965,7 @@ references:
   type: book
 
 - id: ByrdBlueRidge1958
+  authority: supreme.court
   citation-key: ByrdBlueRidge1958
   container-title: U.S.
   issued:
@@ -5141,8 +5173,9 @@ references:
   type: book
 
 - id: CalderJones1984
+  authority: supreme.court
   citation-key: CalderJones1984
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 1984
   jurisdiction: us
@@ -5159,7 +5192,7 @@ references:
       month: 12
       day: 19
   jurisdiction: us:c9:ca.sd
-  number: Case No. 12-cv-2859-L(BGS)
+  number: No. 12-cv-2859-L(BGS)
   title: Camacho v. Baseball
   type: legal_case
 
@@ -5516,6 +5549,7 @@ references:
   URL: https://lpeblog.org/2019/10/02/the-market-does-not-bind-us/
 
 - id: CelotexCorpCatrett1986
+  authority: supreme.court
   citation-key: CelotexCorpCatrett1986
   container-title: U.S.
   issued:
@@ -5668,6 +5702,20 @@ references:
   type: article-journal
   URL: https://browzine.com/articles/60538984
   volume: '16'
+
+- id: ClarkCapitalManagement2001
+  authority: Dist. Court
+  citation-key: ClarkCapitalManagement2001
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2001
+      month: 7
+      day: 6
+  jurisdiction: us:c3:pa.ed
+  page: '193'
+  title: Clark Capital Management v. Annuity Investors Life Ins. Co.
+  type: legal_case
+  volume: '149'
 
 - id: clarkCoercionContractMargins2018
   abstract: >-
@@ -6045,7 +6093,7 @@ references:
       month: 7
       day: 16
   jurisdiction: us:c3:pa.ed
-  number: Civil Action No. 20-724
+  number: No. 20-724
   title: Complete Business Solutions Group, Inc. v. Annie's Pooch Pops Llc
   type: legal_case
 
@@ -6579,15 +6627,16 @@ references:
   type: book
 
 - id: DaimlerAgBauman2014
+  authority: supreme.court
   citation-key: DaimlerAgBauman2014
-  container-title: S. Ct.
+  container-title: U.S.
   issued:
     - year: 2014
   jurisdiction: us
-  page: '746'
+  page: '117'
   title: Daimler Ag v. Bauman
   type: legal_case
-  volume: '134'
+  volume: '571'
 
 - id: dallSaltingEarthOrganizing2002
   accessed:
@@ -7045,7 +7094,7 @@ references:
       month: 12
       day: 14
   jurisdiction: us:c9:wa.wd
-  number: Case No. 3:16-CV-05561-RBL
+  number: No. 3:16-CV-05561-RBL
   title: Deutsch v. Schoelkopf
   type: legal_case
 
@@ -8427,6 +8476,7 @@ references:
   volume: '51'
 
 - id: ErieCoTompkins1938
+  authority: supreme.court
   citation-key: ErieCoTompkins1938
   container-title: U.S.
   issued:
@@ -8770,8 +8820,9 @@ references:
   type: report
 
 - id: ExxonMobilCorp2005
+  authority: supreme.court
   citation-key: ExxonMobilCorp2005
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 2005
   jurisdiction: us
@@ -10094,6 +10145,21 @@ references:
   title-short: Flagstaff Medical Center
   type: legal_case
   volume: '715'
+
+- id: flaubertMadameBovary2015
+  author:
+    - family: Flaubert
+      given: Gustave
+  citation-key: flaubertMadameBovary2015
+  ISBN: 978-0-14-139467-1
+  issued:
+    - year: 2015
+  language: en
+  original-date:
+    - year: 1857
+  publisher: Penguin Classics
+  title: Madame Bovary
+  type: book
 
 - id: flemingPoliceUnionsIndustrial2001
   author:
@@ -11866,7 +11932,7 @@ references:
       month: 10
       day: 6
   jurisdiction: us:c4:md.d
-  number: Civil Action No. TDC-16-0565
+  number: No. TDC-16-0565
   title: Ginwright v. Exeter Finance Corp.
   type: legal_case
 
@@ -12313,8 +12379,9 @@ references:
   type: book
 
 - id: GrableSonsMetal2005
+  authority: supreme.court
   citation-key: GrableSonsMetal2005
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 2005
   jurisdiction: us
@@ -13027,12 +13094,13 @@ references:
       month: 8
       day: 17
   jurisdiction: us:c4:nc.md
-  number: Case No. 1:99CV00119
+  number: No. 1:99CV00119
   title: Hanks v. Coan
   title-short: Hanks
   type: legal_case
 
 - id: HannaPlumer1965
+  authority: supreme.court
   citation-key: HannaPlumer1965
   container-title: U.S.
   issued:
@@ -13764,8 +13832,9 @@ references:
   volume: '14'
 
 - id: HertzCorpFriend2010
+  authority: supreme.court
   citation-key: HertzCorpFriend2010
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 2010
   jurisdiction: us
@@ -14079,8 +14148,9 @@ references:
   volume: '517'
 
 - id: HolmesGroupInc2002
+  authority: supreme.court
   citation-key: HolmesGroupInc2002
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 2002
   jurisdiction: us
@@ -14403,8 +14473,9 @@ references:
   volume: '476'
 
 - id: InternationalShoeCo1945
+  authority: supreme.court
   citation-key: InternationalShoeCo1945
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 1945
   jurisdiction: us
@@ -15927,8 +15998,9 @@ references:
   volume: '34'
 
 - id: KeetonHustlerMagazine1984
+  authority: supreme.court
   citation-key: KeetonHustlerMagazine1984
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 1984
   jurisdiction: us
@@ -16197,7 +16269,7 @@ references:
       month: 8
       day: 25
   jurisdiction: us:c6:mi.ed
-  number: Case No. 20-13134
+  number: No. 20-13134
   title: King v. Whitmer
   title-short: King
   type: legal_case
@@ -18251,6 +18323,18 @@ references:
   type: article-journal
   volume: '10'
 
+- id: Local926Intern1983
+  authority: US
+  citation-key: Local926Intern1983
+  container-title: U.S.
+  issued:
+    - year: 1983
+  jurisdiction: us
+  page: '669'
+  title: Local 926, Intern. Union of Operating Engineers, AFL-CIO v. Jones
+  type: legal_case
+  volume: '460'
+
 - id: loflandChartingDegreesMovement1995
   abstract: >-
     In this chapter I will discuss topics and questions important to address in
@@ -18519,8 +18603,9 @@ references:
   URL: //libguides.libraries.wsu.edu/c.php?g=768677&p=5514204
 
 - id: LouisvilleNashvilleCo1908
+  authority: supreme.court
   citation-key: LouisvilleNashvilleCo1908
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 1908
   jurisdiction: us
@@ -19509,7 +19594,7 @@ references:
   container-title: F. 2d
   issued:
     - year: 1974
-  jurisdiction: us
+  jurisdiction: us:c5
   page: '1396'
   title: Mas v. Perry
   type: legal_case
@@ -19541,6 +19626,7 @@ references:
   volume: '82'
 
 - id: MatsushitaElecIndus1986
+  authority: supreme.court
   citation-key: MatsushitaElecIndus1986
   container-title: U.S.
   issued:
@@ -19551,6 +19637,34 @@ references:
   title-short: Zenith Radio Corp.
   type: legal_case
   volume: '475'
+
+- id: MatterCooperman1994
+  authority: Court of Appeals
+  citation-key: MatterCooperman1994
+  container-title: NE 2d
+  issued:
+    - year: 1994
+      month: 3
+      day: 17
+  jurisdiction: us:ny
+  page: '1069'
+  title: Matter of Cooperman
+  type: legal_case
+  volume: '633'
+
+- id: MatterGiuliani2021
+  authority: Appellate Div., 1st Dept.
+  citation-key: MatterGiuliani2021
+  container-title: AD 3d
+  issued:
+    - year: 2021
+      month: 6
+      day: 24
+  jurisdiction: us:ny
+  page: '1'
+  title: Matter of Giuliani
+  type: legal_case
+  volume: '197'
 
 - id: mattioliDarkFinanceIlliquidity2020
   abstract: >-
@@ -20272,6 +20386,32 @@ references:
   title: Lawyers, Mediation, and the Management of Divorce Practice
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.23
+
+- id: mcgailLostForgottenIndex2021
+  accessed:
+    - year: 2022
+      month: 3
+      day: 28
+  author:
+    - family: McGail
+      given: Alec
+  citation-key: mcgailLostForgottenIndex2021
+  container-title: The American Sociologist
+  DOI: 10.1007/s12108-021-09490-4
+  ISSN: 0003-1232
+  issue: '2'
+  issued:
+    - year: 2021
+      month: 7
+      day: 6
+  note: 'Saved from BrowZine: https://thirdiron.com/download'
+  page: 304 - 340
+  title: >-
+    Lost & Forgotten: An Index of the Famous Works Which Sociology Has Left
+    Behind
+  type: article-journal
+  URL: https://browzine.com/articles/488443958
+  volume: '52'
 
 - id: mcginleyWaterCoolerSpeech2012
   accessed:
@@ -21245,17 +21385,6 @@ references:
   type: book
   URL: https://uncpress.org/book/9780807846254/what-do-we-need-a-union-for/
 
-- id: MineWorkersGibbs1966
-  citation-key: MineWorkersGibbs1966
-  container-title: US
-  issued:
-    - year: 1966
-  jurisdiction: us
-  page: '715'
-  title: Mine Workers v. Gibbs
-  type: legal_case
-  volume: '383'
-
 - id: MissouriRecordingsFarm2012
   chapter-number: '2012'
   citation-key: MissouriRecordingsFarm2012
@@ -22212,6 +22341,20 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.33
 
+- id: NixWhiteside1986
+  authority: Supreme Court
+  citation-key: NixWhiteside1986
+  container-title: US
+  issued:
+    - year: 1986
+      month: 2
+      day: 26
+  jurisdiction: us
+  page: '157'
+  title: Nix v. Whiteside
+  type: legal_case
+  volume: '475'
+
 - id: NLRBBellAerospace1974
   authority: supreme.court
   citation-key: NLRBBellAerospace1974
@@ -22801,8 +22944,9 @@ references:
   type: book
 
 - id: OsbornBankUnited1824
+  authority: supreme.court
   citation-key: OsbornBankUnited1824
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 1824
   jurisdiction: us
@@ -23043,8 +23187,9 @@ references:
   type: book
 
 - id: ParklaneHosieryCo1979
+  authority: supreme.court
   citation-key: ParklaneHosieryCo1979
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 1979
   jurisdiction: us
@@ -23209,8 +23354,9 @@ references:
   volume: '16'
 
 - id: PennoyerNeff1878
+  authority: supreme.court
   citation-key: PennoyerNeff1878
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 1878
   jurisdiction: us
@@ -26062,6 +26208,7 @@ references:
   type: book
 
 - id: ScottHarris2007
+  authority: supreme.court
   citation-key: ScottHarris2007
   container-title: U.S.
   issued:
@@ -26141,6 +26288,18 @@ references:
   title-short: A Watershed Moment
   type: article-journal
   volume: '65'
+
+- id: SearsRoebuckCo1978
+  authority: US
+  citation-key: SearsRoebuckCo1978
+  container-title: U.S.
+  issued:
+    - year: 1978
+  jurisdiction: us
+  page: '180'
+  title: Sears, Roebuck & Co. v. San Diego County Dist. Council of Carpenters
+  type: legal_case
+  volume: '436'
 
 - id: searsVoicesLaborHistory2019
   abstract: "Have you ever wondered how the 8 hour work day happened?\_Or how we have a 40 hour work week, sick days, pensions or vacations? It didn’t happen because a politician or president gave it to us; it happened because people came together, organized, and fought for it. This is the story of American labor history as told in a \"This day in labor history\" format. See what happened on your birthday, your anniversary or any of the other 363 days in Labor History.\_Read how working-class leaders like Mother Jones, Eugene Debs, Elizabeth Gurley Flynn, and Joe Hill, and everyday workers made US Labor History by striking, protesting and even dying for what they believed in. Read how their battles and deaths made your work life safer and made the American working class the envy of the world. Why is knowing this history important? Because it’s starting to repeat itself. The bosses (the 1%) have never liked unions and are working hard to destroy them even as you read this. The recent Janus v. AFSCME decision at the US Supreme Court is just another swipe at the power of working people to have a voice for themselves in the workplace. Even now, they work at ways to weaken OSHA, take away our pensions, and strip us of our overtime pay.\_Today in Labor History …January 14th - The Red for Ed campaign continues into 2019 with 34,000 Los Angeles teachers going out on strike. Fighting for smaller class size, more nurses, librarians, and support staff, and a limit on charter school expansion, they took on the billionaires and won. After 6 school days on the picket line and a majority of parents keeping their children home, the teachers were victorious on most of their issues and got a 6% pay raise to boot. - 2019January 19th - Joe Hill was arrested on this date in Salt Lake City and later convicted on trumped-up murder charges. He was executed 21 months later despite worldwide protests and two attempts to intervene by President Woodrow Wilson. In a letter to Bill Haywood shortly before his death, he penned the famous words, “Don’t mourn – organize!”. - 1915April 21st - Company guards shot down 17 unarmed striking miners near the Neversweat Mine of the Anaconda Copper Mining Co. They were all shot in the back as they tried to flee. The IWW and the Metal Mine Workers Industrial Union called for a strike in the mines around Butte. They struck to secure higher wages, end rustling cards, and win an eight hour day. The Company blamed the IWW for the violence, and federal troops arrived the next day to impose martial law and end the strike. Miners were forced back to the mines at gunpoint. -1920June 30th - Alabama outlawed the leasing of convicts to mine coal, a practice that had been in place since 1848. In 1898, 73 percent of the state’s total revenue came from this source. Twenty-five percent of all black leased convicts died. - 1928September 3rd - Twenty-five workers died, and 55 were injured, unable to escape a fire at the Imperial Poultry processing plant in Hamlet, North Carolina. Managers had locked fire doors to prevent the theft of chicken nuggets. The plant had operated for 11 years without a single safety inspection. - 1991December 2nd - A Chicago “slugger,” paid $50 by labor unions for every scab he “discouraged,” described his job in an interview: “Oh, there ain’t nothing to it. I gets my fifty, then I goes out and finds the guy they wanna have slugged, then I gives it to ‘im”. - 1911These are just a few of the thousands of events in “Voices of Labor - History of the Working Class”This is the perfect book for new or old union members alike. Get your copy today, and then run out and make a little labor history yourself.“Those who cannot remember the past are condemned to repeat it” George Santayana"
@@ -26329,6 +26488,7 @@ references:
   volume: '29'
 
 - id: ShadyGroveOrthopedic2010
+  authority: supreme.court
   citation-key: ShadyGroveOrthopedic2010
   container-title: U.S.
   issued:
@@ -26339,6 +26499,20 @@ references:
   title-short: Allstate Ins.
   type: legal_case
   volume: '559'
+
+- id: ShaperoKentuckyBar1988
+  authority: Supreme Court
+  citation-key: ShaperoKentuckyBar1988
+  container-title: US
+  issued:
+    - year: 1988
+      month: 6
+      day: 13
+  jurisdiction: us
+  page: '466'
+  title: Shapero v. Kentucky Bar Assn.
+  type: legal_case
+  volume: '486'
 
 - id: shapiroProtectingCompetitionAmerican2019
   abstract: >-
@@ -26394,12 +26568,12 @@ references:
 - id: Shillman2000
   authority: 6th Cir.
   citation-key: Shillman2000
-  document-number: Case No. 99-3215
   issued:
     - year: 2000
       month: 6
       day: 29
   jurisdiction: us:c6
+  number: No. 99-3215
   title: Shillman v. U.S.
   title-short: Shillman
   type: legal_case
@@ -27531,8 +27705,9 @@ references:
   type: book
 
 - id: StrawbridgeCurtiss1806
+  authority: supreme.court
   citation-key: StrawbridgeCurtiss1806
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 1806
   jurisdiction: us
@@ -28001,8 +28176,9 @@ references:
   volume: '4'
 
 - id: SwiftTyson1842
+  authority: supreme.court
   citation-key: SwiftTyson1842
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 1842
   jurisdiction: us
@@ -28717,6 +28893,20 @@ references:
   type: legal_case
   volume: '351'
 
+- id: TogstadVeselyOtto1980
+  authority: Supreme Court
+  citation-key: TogstadVeselyOtto1980
+  container-title: NW 2d
+  issued:
+    - year: 1980
+      month: 4
+      day: 11
+  jurisdiction: us:mn
+  page: '686'
+  title: Togstad v. Vesely, Otto, Miller & Keefe
+  type: legal_case
+  volume: '291'
+
 - id: tomlinsonAvoidingLiabilityWrongful2009
   abstract: >-
     We describe how the employment-at-will doctrine in the USA has eroded over
@@ -28993,7 +29183,7 @@ references:
       month: 11
       day: 12
   jurisdiction: us:c11:ga.nd
-  number: Case No. 1:20-cv-01045
+  number: No. 1:20-cv-01045
   title: Trump v. CNN Broadcasting, Inc.
   type: legal_case
 
@@ -29190,6 +29380,18 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/kjpp29&i=362
   volume: '29'
+
+- id: UnitedMineWorkers1966
+  authority: supreme.court
+  citation-key: UnitedMineWorkers1966
+  container-title: U.S.
+  issued:
+    - year: 1966
+  jurisdiction: us
+  page: '715'
+  title: United Mine Workers of America v. Gibbs
+  type: legal_case
+  volume: '383'
 
 - id: UtahAgriculturalOperations2012
   chapter-number: '2012'
@@ -29718,7 +29920,7 @@ references:
       month: 7
       day: 6
   jurisdiction: us:c8:nd.d
-  number: Case No. 3:20-cv-73
+  number: No. 3:20-cv-73
   title: Weather Modification LLC v. Brackin
   title-short: Brackin
   type: legal_case
@@ -29973,6 +30175,7 @@ references:
   volume: '363'
 
 - id: WholeWomanHealth2016
+  authority: supreme.court
   citation-key: WholeWomanHealth2016
   container-title: S. Ct.
   issued:
@@ -30477,8 +30680,9 @@ references:
   volume: '49'
 
 - id: WorldWideVolkswagenCorp1980
+  authority: supreme.court
   citation-key: WorldWideVolkswagenCorp1980
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 1980
   jurisdiction: us
@@ -31033,6 +31237,20 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/41320578
   volume: '26'
+
+- id: ZaudererOfficeDisciplinary1985
+  authority: Supreme Court
+  citation-key: ZaudererOfficeDisciplinary1985
+  container-title: US
+  issued:
+    - year: 1985
+      month: 1
+      day: 7
+  jurisdiction: us
+  page: '626'
+  title: Zauderer v. Office of Disciplinary Counsel of Supreme Court of Ohio
+  type: legal_case
+  volume: '471'
 
 - id: zernerGreenLensConstruction2014
   abstract: >-
